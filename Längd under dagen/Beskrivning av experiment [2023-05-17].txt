@@ -1,0 +1,33 @@
+Titel:
+Är man olika lång på olika tider på dygnet?
+	
+
+Hypotes:
+Gottfrid tror att man är längre på morgonen och kortare på kvällen.
+Anledningen tros vara att kroppen, främst ryggraden/ryggkotorna, komprimeras pga gravitation under
+dagens lopp. Att lägga sig ned och sova gissas låta de komprimerade delarna att expandera till
+normallängd igen.
+	
+
+Metod och mätning:
+2021-12-24, mätning med tumstock som placeras mot vägg, personen som mäts placerar hälarna intill
+varandra och väggen så att tumstocken är mellan de (centrerad).
+
+Personen under mätning har hälarna intill väggen, och lutar resten av kroppen (rumpa, rygg, bakhuvud)
+mot väggen. Mätaren ser till att tumstocken ligger längs centrumlinjen så gott det går och låter en
+vinkelhacke vara pararell med ena sidan mot tumstocken och den ortogonala sidan mot personens huvud.
+ 
+Mätningen avläses till närmsta millimeterstreck på tumstocken.
+
+Osäkerheten antas vara omkring \pm 2 mm i och med att tumstock har \pm 0,5 mm och att hela
+mätuppställningen inte är säkrare än (minst) \pm 1 mm.
+	
+Mätningar togs på morgonen, tidig eftermiddag och kväll.
+Flera personer mäts för att få mer trovärdigt resultat. En skillnad i längd på 10 mm anses vara
+tillräckligt för att säkert kunna säga att man är olika lång olika tider på dygnet.
+	
+Samtligt har haft sockar på sig under mätningarna. 
+Detta är okej så länge man har SAMMA beklädnad vid samtliga mätningar (eftersom det är skillnad i
+längd, och inte absolut längd, vi är intresserade av)
+
+
