@@ -1,5 +1,5 @@
 # created: 2023-05-17
-# updated: 2023-05-18
+# updated: 2023-05-19
 # author:  Gottfrid Olsson
 
 
@@ -34,7 +34,7 @@ matplotlib.rc('legend', fontsize=9)
 
 
 # READ CSV #
-CSV = pd.read_csv('VATTENINTAG [2023-05-18] - DATA.csv', delimiter=',')
+CSV = pd.read_csv('VATTENINTAG [2023-05-19] - DATA.csv', delimiter=',')
 header = CSV.columns
 print(CSV)
 
@@ -84,6 +84,8 @@ y_fit = average_slope_fit*x_fit + average_intercept_fit
 epsilon = 0.5
 x_lims = [x_lims[0]-epsilon, x_lims[1]+epsilon]
 y_lims = [y_lims[0]-epsilon, y_lims[1]+epsilon]
+num_unique_days = len(date_unique)
+average_total_water_intake = total_water_intake / num_unique_days
 
 # Plot fit and settings
 ax.plot(x_fit, y_fit, 'k--', label=f'Medelvärde linjär anpassning\n$$y(h)={average_slope_fit:.2f}h{average_intercept_fit:.2f}$$')
@@ -93,15 +95,15 @@ ax.set_xlim(x_lims[0], x_lims[1])
 ax.set_ylim(y_lims[0], y_lims[1])
 plt.grid()
 plt.legend()
-plt.tight_layout()
 final_date = date[len(date)-1]
+plt.tight_layout()
 plt.savefig(f'Vattenintag [{final_date}].pdf')
+plt.title(f'Medelvärde totalt vattenintag per dag: {average_total_water_intake:.2f} L')
+plt.tight_layout()
 plt.show()
 
 
 # Print some statistics
-num_unique_days = len(date_unique)
-average_total_water_intake = total_water_intake / num_unique_days
 print('\n')
 print(f'Average total water intake:    {average_total_water_intake:.2f} L     (based on {num_unique_days} days)')
 print(f'Average water intake per hour: {average_slope_fit:.2f} L/h   (based on {num_unique_days} days)')
