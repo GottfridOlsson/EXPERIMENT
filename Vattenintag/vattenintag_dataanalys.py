@@ -2,6 +2,11 @@
 # updated: 2023-05-19
 # author:  Gottfrid Olsson
 
+# TODO: 
+# TODO: 
+# TODO:
+#       [ ] plot x-axis in format 07:00, 08:30 and so on for the time (h) 7 and 8.5
+
 
 
 # LIBRARIES #
@@ -34,7 +39,7 @@ matplotlib.rc('legend', fontsize=9)
 
 
 # READ CSV #
-CSV = pd.read_csv('VATTENINTAG [2023-05-19] - DATA.csv', delimiter=',')
+CSV = pd.read_csv('VATTENINTAG [2023-05-21] - DATA.csv', delimiter=',')
 header = CSV.columns
 print(CSV)
 
@@ -71,7 +76,7 @@ for i, day in enumerate(date_unique):
 
     # Plot
     ax.plot(hours, water_cumsum, 's-', label=day)
-    #ax.plot(hours, water_cumsum, 'k-', linewidth=1, label=day)
+    #ax.plot(hours, water_cumsum, 's-', linewidth=1.5)
 
 
 # Calculate things
@@ -84,6 +89,7 @@ y_fit = average_slope_fit*x_fit + average_intercept_fit
 epsilon = 0.5
 x_lims = [x_lims[0]-epsilon, x_lims[1]+epsilon]
 y_lims = [y_lims[0]-epsilon, y_lims[1]+epsilon]
+#x_lims = [6, 24]
 num_unique_days = len(date_unique)
 average_total_water_intake = total_water_intake / num_unique_days
 
