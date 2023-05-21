@@ -49,6 +49,7 @@ date  = CSV[header[0]]
 time  = CSV[header[1]]
 water_intake = CSV[header[2]]
 date_unique = list([set(date)][0]) # picks the unique dates and puts them into a list
+date_unique.sort() # orders the strings 
 x_lims = [6, 22]
 y_lims = [0, 6]
 total_water_intake, total_slope_fit, total_intercept_fit = 0, 0, 0
