@@ -1,11 +1,12 @@
-# created: 2023-05-17
-# updated: 2023-05-19
-# author:  Gottfrid Olsson
-
-# TODO: 
-# TODO: 
-# TODO:
-#       [ ] plot x-axis in format 07:00, 08:30 and so on for the time (h) 7 and 8.5
+##====================================================##
+##     Project: VATTENINTAG
+##        File: vattenintag_dataanalys.py
+##      Author: GOTTFRID OLSSON 
+##     Created: 2023-05-17
+##     Updated: 2023-05-27
+##       About: Plots water intake as function of time
+##              during the day. 
+##====================================================##
 
 
 
@@ -13,10 +14,19 @@
 import numpy as np
 import pandas as pd
 import matplotlib
+import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
-import numpy as np
-from matplotlib.ticker import FuncFormatter, MultipleLocator
+from datetime import datetime
 
+
+
+# READ CSV #
+CSV = pd.read_csv('VATTENINTAG [2023-05-26] - DATA.csv', delimiter=',')
+header = CSV.columns
+print(CSV)
+
+
+# FUNCTIONS #
 def get_minutes_from_hhmm_bruteforce(hours_minutes):
     # time format: 'hh:mm'
     hours, minutes = hours_minutes[0:2], hours_minutes[3:5]
@@ -24,94 +34,95 @@ def get_minutes_from_hhmm_bruteforce(hours_minutes):
     minutes_from_midnight = hours*60 + minutes
     return minutes_from_midnight
 
-# Set matplotlib
-matplotlib.rcParams.update({
-    "text.usetex": True,
-    "font.family": "serif", 
-    "font.serif" : ["Computer Modern Roman"]
-})
-matplotlib.rc('font',   size=11)      #2022-06-21: not sure what the difference is, to test later on!
-matplotlib.rc('axes',   titlesize=13) #2022-06-21: not sure what the difference is, to test later on!
-matplotlib.rc('axes',   labelsize=13) #2022-06-21: not sure what the difference is, to test later on!
-matplotlib.rc('xtick',  labelsize=11)
-matplotlib.rc('ytick',  labelsize=11)
-matplotlib.rc('legend', fontsize=9)
+
+def convert_date_and_time_to_datetime(date, time):
+    """ Date format: 'yyyy-mm-dd'
+
+        Time format: 'hh:mm:ss' (or 'hh:mm')
+
+           Requires:    'import datetime from datetime'
+    """
+    return datetime.fromisoformat(date+'T'+time)
 
 
-# READ CSV #
-CSV = pd.read_csv('VATTENINTAG [2023-05-22] - DATA.csv', delimiter=',')
-header = CSV.columns
-print(CSV)
+def standard_setup_matplotlib(LaTeX=True, figsize_cm=(16, 9), font_size_axis=13, font_size_tick=11, font_size_legend=9):
+    figsize_inch = (figsize_cm[0]/2.54, figsize_cm[1]/2.54)
+    matplotlib.rcParams.update({
+        "text.usetex": LaTeX,
+        "font.family": "serif", 
+        "font.serif" : ["Computer Modern Roman"],
+        "figure.figsize": figsize_inch
+    })
+    matplotlib.rc('font',   size=font_size_axis)      
+    matplotlib.rc('axes',   titlesize=font_size_axis) 
+    matplotlib.rc('axes',   labelsize=font_size_axis)
+    matplotlib.rc('xtick',  labelsize=font_size_tick)
+    matplotlib.rc('ytick',  labelsize=font_size_tick)
+    matplotlib.rc('legend', fontsize=font_size_legend)
+
+
+
+# SETUP MATPLOTLIB #
+standard_setup_matplotlib(figsize_cm=(16, 12))
+
 
 
 # Arrays and variables
-date  = CSV[header[0]]
-time  = CSV[header[1]]
-water_intake = CSV[header[2]]
+date  = CSV[header[0]] # time  = CSV[header[1]], # water_intake = CSV[header[2]]
 date_unique = list([set(date)][0]) # picks the unique dates and puts them into a list
-date_unique.sort() # orders the strings 
-x_lims = [6, 22]
+date_unique.sort()                 # orders the strings 
+total_water_intake = 0
+
+fig, ax = plt.subplots()
+day_cheat, day_after_cheat = date_unique[0], date_unique[1] # to plot with same hh:mm for a certain day we need to cheat to say that the day is the same for all dates
+x_lims = [convert_date_and_time_to_datetime(day_cheat, '05:30'), convert_date_and_time_to_datetime(day_after_cheat, '00:30')]
 y_lims = [0, 6]
-total_water_intake, total_slope_fit, total_intercept_fit = 0, 0, 0
-fig, ax = plt.subplots(figsize=(16/2.54, 12/2.54))
 
 for i, day in enumerate(date_unique):
+
     # Pick out data for the day
     time_of_day = CSV.loc[CSV[header[0]] == day, header[1]]
-    minutes = [get_minutes_from_hhmm_bruteforce(time) for time in time_of_day]
-    hours = [minute/60 for minute in minutes]
+    datetimes_of_day = [convert_date_and_time_to_datetime(day_cheat, time) for time in time_of_day]
     water_intake = CSV.loc[CSV[header[0]] == day, header[2]]
-    water_cumsum = np.cumsum(water_intake/10)
+    water_cumsum = np.cumsum(water_intake/10) # convert from dl to L, make shape same as for datetimes_of_day to plot
+    total_water_intake += np.max(water_cumsum)
 
-    # Adjust lims for plot 
-    if np.min(hours) < x_lims[0]: x_lims[0] = np.min(hours)
-    if np.max(hours) > x_lims[1]: x_lims[1] = np.max(hours)
+    # Check for update on lims  
     if np.min(water_cumsum) < y_lims[0]: y_lims[0] = np.min(water_cumsum)
     if np.max(water_cumsum) > y_lims[1]: y_lims[1] = np.max(water_cumsum)
 
-    # Fit line
-    coeffs = np.polyfit(hours, water_cumsum, 1)
-    total_slope_fit += coeffs[0]
-    total_intercept_fit += coeffs[1]
-    total_water_intake += np.max(water_cumsum)
-
     # Plot
-    ax.plot(hours, water_cumsum, 's-', label=day)
-    #ax.plot(hours, water_cumsum, 's-', linewidth=1.5)
+    ax.plot(datetimes_of_day, water_cumsum, 's-', label=day)
 
 
-# Calculate things
+# Calculate 
 num_unique_days = len(date_unique)
 average_total_water_intake = total_water_intake / num_unique_days
-average_slope_fit = total_slope_fit/num_unique_days
-average_intercept_fit = total_intercept_fit/num_unique_days
-x_fit = np.linspace(x_lims[0], x_lims[1])
-y_fit = average_slope_fit*x_fit + average_intercept_fit
-epsilon = 0.5
-x_lims = [x_lims[0]-epsilon, x_lims[1]+epsilon]
-y_lims = [y_lims[0]-epsilon, y_lims[1]+epsilon]
-#x_lims = [6, 24]
+y_lims = [y_lims[0]-0.5, y_lims[1]+0.5]
 num_unique_days = len(date_unique)
+final_date = date[len(date)-1]
 average_total_water_intake = total_water_intake / num_unique_days
 
-# Plot fit and settings
-ax.plot(x_fit, y_fit, 'k--', label=f'Medelvärde linjär anpassning\n$$y(h)={average_slope_fit:.2f}h{average_intercept_fit:.2f}$$')
-ax.set_xlabel('Tid på dagen (h)')
+
+# Plot settings
+ax.set_xlabel('Tid på dygnet')
 ax.set_ylabel('Kumulativt vattenintag (L)')
 ax.set_xlim(x_lims[0], x_lims[1])
 ax.set_ylim(y_lims[0], y_lims[1])
+ax.xaxis.set_major_locator(mdates.HourLocator(interval=2)) #get tick every 30 minutes: MinuteLocator(interval=30) #this works! 2023-05-27
+ax.xaxis.set_major_formatter(mdates.DateFormatter('%H:%M')) #to get 'hh:mm'
+
 plt.grid()
 plt.legend()
-final_date = date[len(date)-1]
-plt.tight_layout()
-plt.savefig(f'Vattenintag [{final_date}].pdf')
 plt.title(f'Medelvärde totalt vattenintag per dag: {average_total_water_intake:.2f} L')
 plt.tight_layout()
+plt.savefig(f'Vattenintag [{final_date}].pdf')
 plt.show()
 
 
-# Print some statistics
-print('\n')
-print(f'Average total water intake:    {average_total_water_intake:.2f} L     (based on {num_unique_days} days)')
-print(f'Average water intake per hour: {average_slope_fit:.2f} L/h   (based on {num_unique_days} days)')
-print(f'Average time per liter water:  {1/average_slope_fit:.2f} h/L   (based on {num_unique_days} days)')
+
+# OLD, SAVED IF I EVER LOOK FOR IT
+#handles, labels = ax.get_legend_handles_labels()
+#display_labels = [num_unique_days]
+#ax.legend([handle for i,handle in enumerate(handles) if i in display_labels],
+#          [label for i,label in enumerate(labels) if i in display_labels], loc = 'best')
