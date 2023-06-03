@@ -21,7 +21,7 @@ from datetime import datetime
 
 
 # READ CSV #
-CSV = pd.read_csv('VATTENINTAG [2023-05-26] - DATA.csv', delimiter=',')
+CSV = pd.read_csv('VATTENINTAG [2023-05-31] - DATA.csv', delimiter=',')
 header = CSV.columns
 print(CSV)
 
@@ -114,7 +114,9 @@ ax.xaxis.set_major_formatter(mdates.DateFormatter('%H:%M')) #to get 'hh:mm'
 
 plt.grid()
 plt.legend()
-plt.title(f'Medelvärde totalt vattenintag per dag: {average_total_water_intake:.2f} L')
+handles, labels = ax.get_legend_handles_labels()
+ax.legend([handles[0]], [f'Olika dagar från {date_unique[0]} till {date_unique[-1]}'], loc = 'best')
+plt.title(f'Medelvärde totalt vattenintag per dag: {average_total_water_intake:.2f} L (baserat på {num_unique_days} dagar)')
 plt.tight_layout()
 plt.savefig(f'Vattenintag [{final_date}].pdf')
 plt.show()
