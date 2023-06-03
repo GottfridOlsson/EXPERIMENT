@@ -21,7 +21,7 @@ from datetime import datetime
 
 
 # READ CSV #
-CSV = pd.read_csv('VATTENINTAG [2023-05-31] - DATA.csv', delimiter=',')
+CSV = pd.read_csv('VATTENINTAG [2023-06-03] - DATA.csv', delimiter=',')
 header = CSV.columns
 print(CSV)
 
