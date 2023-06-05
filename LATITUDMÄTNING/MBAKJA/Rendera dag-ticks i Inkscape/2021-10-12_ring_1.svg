@@ -1,0 +1,2778 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="99.470154mm"
+   height="99.471092mm"
+   viewBox="0 0 99.470154 99.471089"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="2021-10-12_ring_1.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect7529"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect7529"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect2181"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2177">
+      <circle
+         style="display:block;opacity:0.999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dashoffset:25.0961;stroke-opacity:1;paint-order:fill markers stroke"
+         id="circle2179"
+         cx="130.3517"
+         cy="46.631901"
+         r="47.5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7515">
+      <circle
+         style="display:none;opacity:0.999;fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.99998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:25.0961;stroke-opacity:1;paint-order:fill markers stroke"
+         id="circle7517"
+         cx="31.504047"
+         cy="34.540821"
+         r="42.500004" />
+      <path
+         style="opacity:0.999;fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.99998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:25.0961;stroke-opacity:1;paint-order:fill markers stroke"
+         class="powerclip"
+         id="lpe_path-effect7519"
+         d="M -23.231031,-20.194727 H 86.239123 V 89.276365 H -23.231031 Z M 74.004051,34.540821 A 42.500004,42.500004 0 0 0 31.504047,-7.9591827 42.500004,42.500004 0 0 0 -10.995956,34.540821 42.500004,42.500004 0 0 0 31.504047,77.040825 42.500004,42.500004 0 0 0 74.004051,34.540821 Z" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect7529">
+      <path
+         id="mask-powermask-path-effect7529_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M -19.231031,-16.194727 H 82.239123 V 85.276365 H -19.231031 Z" />
+      <circle
+         style="opacity:0.999;fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.99998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:25.0961;stroke-opacity:1;paint-order:fill markers stroke"
+         id="circle7527"
+         cx="31.504047"
+         cy="34.540821"
+         r="42.500004" />
+    </mask>
+    <filter
+       id="mask-powermask-path-effect7529_inverse"
+       inkscape:label="filtermask-powermask-path-effect7529"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect7529_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect7529_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="143.50965"
+     inkscape:cy="181.47438"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="1912"
+     inkscape:window-y="148"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(19.613494,11.862854)">
+    <g
+       id="g7501"
+       transform="translate(-1.3824629,3.3318732)"
+       clip-path="url(#clipPath7515)"
+       mask="url(#mask-powermask-path-effect7529)"
+       inkscape:path-effect="#path-effect7529"
+       style="stroke:#000000;stroke-opacity:1">
+      <g
+         id="g5283"
+         transform="translate(-73.923177,-4.4586416)"
+         style="stroke:#000000;stroke-opacity:1">
+        <g
+           id="g4842"
+           style="stroke:#000000;stroke-opacity:1">
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 130.29453,38.99946 H 155.1623"
+             inkscape:label="RadialGridline0"
+             id="path86171"
+             inkscape:original-d="M 130.29453,38.99946 H 155.1623" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.29086,38.571403 24.86402,-0.428056"
+             inkscape:label="RadialGridline1"
+             id="path86173"
+             inkscape:original-d="m 130.29086,38.571403 24.86402,-0.428056" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.27987,38.143474 24.85292,-0.85599"
+             inkscape:label="RadialGridline2"
+             id="path86175"
+             inkscape:original-d="m 130.27987,38.143474 24.85292,-0.85599" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.26145,37.715798 24.8345,-1.283662"
+             inkscape:label="RadialGridline3"
+             id="path86177"
+             inkscape:original-d="m 130.26145,37.715798 24.8345,-1.283662" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.2356,37.2885 24.80884,-1.710961"
+             inkscape:label="RadialGridline4"
+             id="path86179"
+             inkscape:original-d="m 130.2356,37.2885 24.80884,-1.710961" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.20252,36.861709 24.77566,-2.137743"
+             inkscape:label="RadialGridline5"
+             id="path86181"
+             inkscape:original-d="m 130.20252,36.861709 24.77566,-2.137743" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.16201,36.435557 24.73524,-2.563904"
+             inkscape:label="RadialGridline6"
+             id="path86183"
+             inkscape:original-d="m 130.16201,36.435557 24.73524,-2.563904" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.11426,36.010166 24.68741,-2.989303"
+             inkscape:label="RadialGridline7"
+             id="path86185"
+             inkscape:original-d="m 130.11426,36.010166 24.68741,-2.989303" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.05909,35.58565 24.63233,-3.413811"
+             inkscape:label="RadialGridline8"
+             id="path86187"
+             inkscape:original-d="m 130.05909,35.58565 24.63233,-3.413811" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 129.99668,35.162158 154.5666,31.324846"
+             inkscape:label="RadialGridline9"
+             id="path86189"
+             inkscape:original-d="M 129.99668,35.162158 154.5666,31.324846" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.92704,34.739794 24.50018,-4.259667"
+             inkscape:label="RadialGridline10"
+             id="path86191"
+             inkscape:original-d="m 129.92704,34.739794 24.50018,-4.259667" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.85006,34.318689 24.42321,-4.680762"
+             inkscape:label="RadialGridline11"
+             id="path86193"
+             inkscape:original-d="m 129.85006,34.318689 24.42321,-4.680762" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.76585,33.898985 24.33908,-5.100438"
+             inkscape:label="RadialGridline12"
+             id="path86195"
+             inkscape:original-d="m 129.76585,33.898985 24.33908,-5.100438" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.67449,33.480784 24.24764,-5.518638"
+             inkscape:label="RadialGridline13"
+             id="path86197"
+             inkscape:original-d="m 129.67449,33.480784 24.24764,-5.518638" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.5759,33.064219 24.14904,-5.935278"
+             inkscape:label="RadialGridline14"
+             id="path86199"
+             inkscape:original-d="m 129.5759,33.064219 24.14904,-5.935278" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.47016,32.649412 24.04331,-6.350011"
+             inkscape:label="RadialGridline15"
+             id="path86201"
+             inkscape:original-d="m 129.47016,32.649412 24.04331,-6.350011" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.35728,32.236484 23.93043,-6.762957"
+             inkscape:label="RadialGridline16"
+             id="path86203"
+             inkscape:original-d="m 129.35728,32.236484 23.93043,-6.762957" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.23735,31.825568 23.8104,-7.173874"
+             inkscape:label="RadialGridline17"
+             id="path86205"
+             inkscape:original-d="m 129.23735,31.825568 23.8104,-7.173874" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 129.11028,31.416766 152.7937,23.834091"
+             inkscape:label="RadialGridline18"
+             id="path86207"
+             inkscape:original-d="M 129.11028,31.416766 152.7937,23.834091" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 128.97625,31.01022 23.5494,-7.989221"
+             inkscape:label="RadialGridline19"
+             id="path86209"
+             inkscape:original-d="m 128.97625,31.01022 23.5494,-7.989221" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 128.83527,30.606043 23.40842,-8.393437"
+             inkscape:label="RadialGridline20"
+             id="path86211"
+             inkscape:original-d="m 128.83527,30.606043 23.40842,-8.393437" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 128.68733,30.204347 23.26048,-8.795152"
+             inkscape:label="RadialGridline21"
+             id="path86213"
+             inkscape:original-d="m 128.68733,30.204347 23.26048,-8.795152" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 128.53244,29.805254 23.10568,-9.194206"
+             inkscape:label="RadialGridline22"
+             id="path86215"
+             inkscape:original-d="m 128.53244,29.805254 23.10568,-9.194206" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 128.37078,29.408906 22.94393,-9.590555"
+             inkscape:label="RadialGridline23"
+             id="path86217"
+             inkscape:original-d="m 128.37078,29.408906 22.94393,-9.590555" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 128.20226,29.015377 22.7755,-9.984083"
+             inkscape:label="RadialGridline24"
+             id="path86219"
+             inkscape:original-d="m 128.20226,29.015377 22.7755,-9.984083" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 128.02706,28.624856 150.62728,18.250159"
+             inkscape:label="RadialGridline25"
+             id="path86221"
+             inkscape:original-d="M 128.02706,28.624856 150.62728,18.250159" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 127.8451,28.237343 150.26345,17.475226"
+             inkscape:label="RadialGridline26"
+             id="path86223"
+             inkscape:original-d="M 127.8451,28.237343 150.26345,17.475226" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 127.65656,27.853026 149.88627,16.706591"
+             inkscape:label="RadialGridline27"
+             id="path86225"
+             inkscape:original-d="M 127.65656,27.853026 149.88627,16.706591" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 127.46144,27.471997 22.0345,-11.527369"
+             inkscape:label="RadialGridline28"
+             id="path86227"
+             inkscape:original-d="m 127.46144,27.471997 22.0345,-11.527369" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 127.25975,27.094447 149.09254,15.189433"
+             inkscape:label="RadialGridline29"
+             id="path86229"
+             inkscape:original-d="M 127.25975,27.094447 149.09254,15.189433" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 127.05156,26.720374 148.67627,14.441287"
+             inkscape:label="RadialGridline30"
+             id="path86231"
+             inkscape:original-d="M 127.05156,26.720374 148.67627,14.441287" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 126.83699,26.349966 148.24712,13.700472"
+             inkscape:label="RadialGridline31"
+             id="path86233"
+             inkscape:original-d="M 126.83699,26.349966 148.24712,13.700472" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 126.61611,25.983319 147.80528,12.967177"
+             inkscape:label="RadialGridline32"
+             id="path86235"
+             inkscape:original-d="M 126.61611,25.983319 147.80528,12.967177" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 126.38885,25.620524 147.35094,12.241588"
+             inkscape:label="RadialGridline33"
+             id="path86237"
+             inkscape:original-d="M 126.38885,25.620524 147.35094,12.241588" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 126.15548,25.261677 146.8841,11.523894"
+             inkscape:label="RadialGridline34"
+             id="path86239"
+             inkscape:original-d="M 126.15548,25.261677 146.8841,11.523894" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 125.9159,24.906872 146.40505,10.814283"
+             inkscape:label="RadialGridline35"
+             id="path86241"
+             inkscape:original-d="M 125.9159,24.906872 146.40505,10.814283" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 125.67031,24.556296 145.91377,10.113131"
+             inkscape:label="RadialGridline36"
+             id="path86243"
+             inkscape:original-d="M 125.67031,24.556296 145.91377,10.113131" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 125.4187,24.209949 145.41056,9.4204384"
+             inkscape:label="RadialGridline37"
+             id="path86245"
+             inkscape:original-d="M 125.4187,24.209949 145.41056,9.4204384" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 125.16118,23.86802 144.8955,8.7365804"
+             inkscape:label="RadialGridline38"
+             id="path86247"
+             inkscape:original-d="M 125.16118,23.86802 144.8955,8.7365804" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 124.89773,23.530603 144.3687,8.0617452"
+             inkscape:label="RadialGridline39"
+             id="path86249"
+             inkscape:original-d="M 124.89773,23.530603 144.3687,8.0617452" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 124.62864,23.197697 143.83043,7.3959329"
+             inkscape:label="RadialGridline40"
+             id="path86251"
+             inkscape:original-d="M 124.62864,23.197697 143.83043,7.3959329" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 124.35382,22.86949 143.28069,6.7396134"
+             inkscape:label="RadialGridline41"
+             id="path86253"
+             inkscape:original-d="M 124.35382,22.86949 143.28069,6.7396134" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 124.07336,22.546171 142.71977,6.0927867"
+             inkscape:label="RadialGridline42"
+             id="path86255"
+             inkscape:original-d="M 124.07336,22.546171 142.71977,6.0927867" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 123.78735,22.227551 142.14785,5.4557348"
+             inkscape:label="RadialGridline43"
+             id="path86257"
+             inkscape:original-d="M 123.78735,22.227551 142.14785,5.4557348" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 123.49589,21.914006 141.56494,4.8286456"
+             inkscape:label="RadialGridline44"
+             id="path86259"
+             inkscape:original-d="M 123.49589,21.914006 141.56494,4.8286456" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 123.19917,21.605537 140.9714,4.2116132"
+             inkscape:label="RadialGridline45"
+             id="path86261"
+             inkscape:original-d="M 123.19917,21.605537 140.9714,4.2116132" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 122.8971,21.302237 140.36734,3.6049194"
+             inkscape:label="RadialGridline46"
+             id="path86263"
+             inkscape:original-d="M 122.8971,21.302237 140.36734,3.6049194" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 122.58985,21.004106 139.75294,3.0087524"
+             inkscape:label="RadialGridline47"
+             id="path86265"
+             inkscape:original-d="M 122.58985,21.004106 139.75294,3.0087524" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 122.27762,20.711333 139.12829,2.423206"
+             inkscape:label="RadialGridline48"
+             id="path86267"
+             inkscape:original-d="M 122.27762,20.711333 139.12829,2.423206" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 121.96032,20.424011 138.49368,1.8484682"
+             inkscape:label="RadialGridline49"
+             id="path86269"
+             inkscape:original-d="M 121.96032,20.424011 138.49368,1.8484682" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 121.63812,20.142141 137.8493,1.284821"
+             inkscape:label="RadialGridline50"
+             id="path86271"
+             inkscape:original-d="M 121.63812,20.142141 137.8493,1.284821" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 121.31104,19.865909 137.19533,0.7322645"
+             inkscape:label="RadialGridline51"
+             id="path86273"
+             inkscape:original-d="M 121.31104,19.865909 137.19533,0.7322645" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 120.97936,19.595317 136.53187,0.19108052"
+             inkscape:label="RadialGridline52"
+             id="path86275"
+             inkscape:original-d="M 120.97936,19.595317 136.53187,0.19108052" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 120.64307,19.330459 135.85929,-0.3385429"
+             inkscape:label="RadialGridline53"
+             id="path86277"
+             inkscape:original-d="M 120.64307,19.330459 135.85929,-0.3385429" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 120.30227,19.071427 135.17759,-0.85660578"
+             inkscape:label="RadialGridline54"
+             id="path86279"
+             inkscape:original-d="M 120.30227,19.071427 135.17759,-0.85660578" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 119.95705,18.818317 134.48716,-1.3627322"
+             inkscape:label="RadialGridline55"
+             id="path86281"
+             inkscape:original-d="M 119.95705,18.818317 134.48716,-1.3627322" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 119.60751,18.571222 133.78807,-1.857016"
+             inkscape:label="RadialGridline56"
+             id="path86283"
+             inkscape:original-d="M 119.60751,18.571222 133.78807,-1.857016" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 119.25374,18.330143 133.08062,-2.3391754"
+             inkscape:label="RadialGridline57"
+             id="path86285"
+             inkscape:original-d="M 119.25374,18.330143 133.08062,-2.3391754" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 118.89592,18.095172 132.3649,-2.8090224"
+             inkscape:label="RadialGridline58"
+             id="path86287"
+             inkscape:original-d="M 118.89592,18.095172 132.3649,-2.8090224" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 118.53407,17.866499 131.64129,-3.2665569"
+             inkscape:label="RadialGridline59"
+             id="path86289"
+             inkscape:original-d="M 118.53407,17.866499 131.64129,-3.2665569" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 118.16836,17.643935 130.90987,-3.7114969"
+             inkscape:label="RadialGridline60"
+             id="path86291"
+             inkscape:original-d="M 118.16836,17.643935 130.90987,-3.7114969" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 117.79889,17.427856 130.17084,-4.1438426"
+             inkscape:label="RadialGridline61"
+             id="path86293"
+             inkscape:original-d="M 117.79889,17.427856 130.17084,-4.1438426" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 117.42576,17.218074 129.42458,-4.5634059"
+             inkscape:label="RadialGridline62"
+             id="path86295"
+             inkscape:original-d="M 117.42576,17.218074 129.42458,-4.5634059" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 117.04896,17.014684 128.67117,-4.9699987"
+             inkscape:label="RadialGridline63"
+             id="path86297"
+             inkscape:original-d="M 117.04896,17.014684 128.67117,-4.9699987" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 116.66887,16.817967 127.9109,-5.3636213"
+             inkscape:label="RadialGridline64"
+             id="path86299"
+             inkscape:original-d="M 116.66887,16.817967 127.9109,-5.3636213" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 116.2854,16.627734 127.14386,-5.7440854"
+             inkscape:label="RadialGridline65"
+             id="path86301"
+             inkscape:original-d="M 116.2854,16.627734 127.14386,-5.7440854" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 115.89864,16.444082 126.37052,-6.1112033"
+             inkscape:label="RadialGridline66"
+             id="path86303"
+             inkscape:original-d="M 115.89864,16.444082 126.37052,-6.1112033" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 115.50887,16.267196 125.59089,-6.4650688"
+             inkscape:label="RadialGridline67"
+             id="path86305"
+             inkscape:original-d="M 115.50887,16.267196 125.59089,-6.4650688" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 115.1161,16.096983 124.80524,-6.8054"
+             inkscape:label="RadialGridline68"
+             id="path86307"
+             inkscape:original-d="M 115.1161,16.096983 124.80524,-6.8054" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 114.72041,15.933632 9.29355,-23.065829"
+             inkscape:label="RadialGridline69"
+             id="path86309"
+             inkscape:original-d="m 114.72041,15.933632 9.29355,-23.065829" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 114.32199,15.777047 8.89514,-23.2224126"
+             inkscape:label="RadialGridline70"
+             id="path86311"
+             inkscape:original-d="m 114.32199,15.777047 8.89514,-23.2224126" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 113.92093,15.627418 8.4941,-23.372042"
+             inkscape:label="RadialGridline71"
+             id="path86313"
+             inkscape:original-d="m 113.92093,15.627418 8.4941,-23.372042" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 113.51737,15.48465 8.09049,-23.5148101"
+             inkscape:label="RadialGridline72"
+             id="path86315"
+             inkscape:original-d="m 113.51737,15.48465 8.09049,-23.5148101" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 113.11139,15.348837 120.7959,-8.301692"
+             inkscape:label="RadialGridline73"
+             id="path86317"
+             inkscape:original-d="M 113.11139,15.348837 120.7959,-8.301692" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 112.70316,15.220073 7.27626,-23.7793866"
+             inkscape:label="RadialGridline74"
+             id="path86319"
+             inkscape:original-d="m 112.70316,15.220073 7.27626,-23.7793866" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 112.29276,15.098359 6.86586,-23.901102"
+             inkscape:label="RadialGridline75"
+             id="path86321"
+             inkscape:original-d="m 112.29276,15.098359 6.86586,-23.901102" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 111.88032,14.983693 6.45346,-24.0156732"
+             inkscape:label="RadialGridline76"
+             id="path86323"
+             inkscape:original-d="m 111.88032,14.983693 6.45346,-24.0156732" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 111.46597,14.876171 6.03912,-24.1231961"
+             inkscape:label="RadialGridline77"
+             id="path86325"
+             inkscape:original-d="m 111.46597,14.876171 6.03912,-24.1231961" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 111.04983,14.775791 5.62299,-24.2235749"
+             inkscape:label="RadialGridline78"
+             id="path86327"
+             inkscape:original-d="m 111.04983,14.775791 5.62299,-24.2235749" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 110.63203,14.682649 5.20514,-24.3169055"
+             inkscape:label="RadialGridline79"
+             id="path86329"
+             inkscape:original-d="m 110.63203,14.682649 5.20514,-24.3169055" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 110.21268,14.59665 4.78584,-24.4029048"
+             inkscape:label="RadialGridline80"
+             id="path86331"
+             inkscape:original-d="m 110.21268,14.59665 4.78584,-24.4029048" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 109.79192,14.517888 4.36506,-24.481667"
+             inkscape:label="RadialGridline81"
+             id="path86333"
+             inkscape:original-d="m 109.79192,14.517888 4.36506,-24.481667" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 109.36986,14.446363 3.94301,-24.553098"
+             inkscape:label="RadialGridline82"
+             id="path86335"
+             inkscape:original-d="m 109.36986,14.446363 3.94301,-24.553098" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 108.94664,14.382075 3.51978,-24.617292"
+             inkscape:label="RadialGridline83"
+             id="path86337"
+             inkscape:original-d="m 108.94664,14.382075 3.51978,-24.617292" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 108.52236,14.325212 3.09552,-24.674343"
+             inkscape:label="RadialGridline84"
+             id="path86339"
+             inkscape:original-d="m 108.52236,14.325212 3.09552,-24.674343" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 108.09718,14.275586 2.67033,-24.723968"
+             inkscape:label="RadialGridline85"
+             id="path86341"
+             inkscape:original-d="m 108.09718,14.275586 2.67033,-24.723968" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 107.67121,14.233197 2.24434,-24.766168"
+             inkscape:label="RadialGridline86"
+             id="path86343"
+             inkscape:original-d="m 107.67121,14.233197 2.24434,-24.766168" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 107.24457,14.198234 1.8177,-24.801133"
+             inkscape:label="RadialGridline87"
+             id="path86345"
+             inkscape:original-d="m 107.24457,14.198234 1.8177,-24.801133" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 106.81738,14.170695 1.39053,-24.828859"
+             inkscape:label="RadialGridline88"
+             id="path86347"
+             inkscape:original-d="m 106.81738,14.170695 1.39053,-24.828859" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 106.38979,14.150394 0.96293,-24.849067"
+             inkscape:label="RadialGridline89"
+             id="path86349"
+             inkscape:original-d="m 106.38979,14.150394 0.96293,-24.849067" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 105.96191,14.137518 0.53505,-24.861943"
+             inkscape:label="RadialGridline90"
+             id="path86351"
+             inkscape:original-d="m 105.96191,14.137518 0.53505,-24.861943" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 105.53387,14.131972 0.10702,-24.867488"
+             inkscape:label="RadialGridline91"
+             id="path86353"
+             inkscape:original-d="m 105.53387,14.131972 0.10702,-24.867488" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 105.1058,14.133852 104.78475,-10.73185"
+             inkscape:label="RadialGridline92"
+             id="path86355"
+             inkscape:original-d="M 105.1058,14.133852 104.78475,-10.73185" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 104.67783,14.143063 103.9288,-10.713429"
+             inkscape:label="RadialGridline93"
+             id="path86357"
+             inkscape:original-d="M 104.67783,14.143063 103.9288,-10.713429" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 104.25007,14.159605 103.0733,-10.680251"
+             inkscape:label="RadialGridline94"
+             id="path86359"
+             inkscape:original-d="M 104.25007,14.159605 103.0733,-10.680251" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 103.82267,14.183572 102.2185,-10.632317"
+             inkscape:label="RadialGridline95"
+             id="path86361"
+             inkscape:original-d="M 103.82267,14.183572 102.2185,-10.632317" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 103.39575,14.21487 -2.0311,-24.784685"
+             inkscape:label="RadialGridline96"
+             id="path86363"
+             inkscape:original-d="m 103.39575,14.21487 -2.0311,-24.784685" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 102.96942,14.253499 -2.45743,-24.746056"
+             inkscape:label="RadialGridline97"
+             id="path86365"
+             inkscape:original-d="m 102.96942,14.253499 -2.45743,-24.746056" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 102.54382,14.299459 99.6608,-10.400542"
+             inkscape:label="RadialGridline98"
+             id="path86367"
+             inkscape:original-d="M 102.54382,14.299459 99.6608,-10.400542" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 102.11908,14.35275 98.811316,-10.294054"
+             inkscape:label="RadialGridline99"
+             id="path86369"
+             inkscape:original-d="M 102.11908,14.35275 98.811316,-10.294054" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 101.69532,14.413279 97.963787,-10.172809"
+             inkscape:label="RadialGridline100"
+             id="path86371"
+             inkscape:original-d="M 101.69532,14.413279 97.963787,-10.172809" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 101.27266,14.481232 97.118466,-10.03709"
+             inkscape:label="RadialGridline101"
+             id="path86373"
+             inkscape:original-d="M 101.27266,14.481232 97.118466,-10.03709" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 100.85124,14.556329 96.275618,-9.8868027"
+             inkscape:label="RadialGridline102"
+             id="path86375"
+             inkscape:original-d="M 100.85124,14.556329 96.275618,-9.8868027" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 100.43116,14.638757 95.435439,-9.7220414"
+             inkscape:label="RadialGridline103"
+             id="path86377"
+             inkscape:original-d="M 100.43116,14.638757 95.435439,-9.7220414" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 100.01258,14.728327 94.598286,-9.542806"
+             inkscape:label="RadialGridline104"
+             id="path86379"
+             inkscape:original-d="M 100.01258,14.728327 94.598286,-9.542806" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 99.595591,14.825135 93.764329,-9.3492843"
+             inkscape:label="RadialGridline105"
+             id="path86381"
+             inkscape:original-d="M 99.595591,14.825135 93.764329,-9.3492843" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 99.180332,14.929086 92.933849,-9.1412884"
+             inkscape:label="RadialGridline106"
+             id="path86383"
+             inkscape:original-d="M 99.180332,14.929086 92.933849,-9.1412884" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 98.766925,15.04018 92.107035,-8.9191004"
+             inkscape:label="RadialGridline107"
+             id="path86385"
+             inkscape:original-d="M 98.766925,15.04018 92.107035,-8.9191004" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 98.355492,15.158323 91.284168,-8.6828141"
+             inkscape:label="RadialGridline108"
+             id="path86387"
+             inkscape:original-d="M 98.355492,15.158323 91.284168,-8.6828141" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 97.946154,15.283609 90.465437,-8.4322416"
+             inkscape:label="RadialGridline109"
+             id="path86389"
+             inkscape:original-d="M 97.946154,15.283609 90.465437,-8.4322416" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 97.539035,15.415851 89.651217,-8.1676648"
+             inkscape:label="RadialGridline110"
+             id="path86391"
+             inkscape:original-d="M 97.539035,15.415851 89.651217,-8.1676648" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 97.134247,15.555141 88.841603,-7.8891778"
+             inkscape:label="RadialGridline111"
+             id="path86393"
+             inkscape:original-d="M 97.134247,15.555141 88.841603,-7.8891778" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 96.731921,15.701387 88.03697,-7.5966866"
+             inkscape:label="RadialGridline112"
+             id="path86395"
+             inkscape:original-d="M 96.731921,15.701387 88.03697,-7.5966866" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 96.33217,15.854494 87.237507,-7.2904731"
+             inkscape:label="RadialGridline113"
+             id="path86397"
+             inkscape:original-d="M 96.33217,15.854494 87.237507,-7.2904731" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 95.93508,16.014462 86.443401,-6.9705373"
+             inkscape:label="RadialGridline114"
+             id="path86399"
+             inkscape:original-d="M 95.93508,16.014462 86.443401,-6.9705373" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 95.540893,16.181291 85.654934,-6.6369732"
+             inkscape:label="RadialGridline115"
+             id="path86401"
+             inkscape:original-d="M 95.540893,16.181291 85.654934,-6.6369732" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 95.149526,16.354793 84.872294,-6.2898748"
+             inkscape:label="RadialGridline116"
+             id="path86403"
+             inkscape:original-d="M 95.149526,16.354793 84.872294,-6.2898748" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 94.761261,16.535062 84.095764,-5.9293362"
+             inkscape:label="RadialGridline117"
+             id="path86405"
+             inkscape:original-d="M 94.761261,16.535062 84.095764,-5.9293362" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 94.376192,16.722005 83.32553,-5.5554512"
+             inkscape:label="RadialGridline118"
+             id="path86407"
+             inkscape:original-d="M 94.376192,16.722005 83.32553,-5.5554512" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 93.994318,16.915526 82.561876,-5.1684078"
+             inkscape:label="RadialGridline119"
+             id="path86409"
+             inkscape:original-d="M 93.994318,16.915526 82.561876,-5.1684078" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 93.615921,17.115533 81.804989,-4.7683001"
+             inkscape:label="RadialGridline120"
+             id="path86411"
+             inkscape:original-d="M 93.615921,17.115533 81.804989,-4.7683001" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 93.241002,17.322119 81.055058,-4.355222"
+             inkscape:label="RadialGridline121"
+             id="path86413"
+             inkscape:original-d="M 93.241002,17.322119 81.055058,-4.355222" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 92.869655,17.535096 80.312363,-3.9292676"
+             inkscape:label="RadialGridline122"
+             id="path86415"
+             inkscape:original-d="M 92.869655,17.535096 80.312363,-3.9292676" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 92.501973,17.754465 79.577187,-3.4906247"
+             inkscape:label="RadialGridline123"
+             id="path86417"
+             inkscape:original-d="M 92.501973,17.754465 79.577187,-3.4906247" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 92.138239,17.980037 78.849625,-3.0393874"
+             inkscape:label="RadialGridline124"
+             id="path86419"
+             inkscape:original-d="M 92.138239,17.980037 78.849625,-3.0393874" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 91.778358,18.211905 78.129957,-2.5756497"
+             inkscape:label="RadialGridline125"
+             id="path86421"
+             inkscape:original-d="M 91.778358,18.211905 78.129957,-2.5756497" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 91.422613,18.449883 77.418279,-2.0995995"
+             inkscape:label="RadialGridline126"
+             id="path86423"
+             inkscape:original-d="M 91.422613,18.449883 77.418279,-2.0995995" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 91.070909,18.694065 76.715059,-1.6114249"
+             inkscape:label="RadialGridline127"
+             id="path86425"
+             inkscape:original-d="M 91.070909,18.694065 76.715059,-1.6114249" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 90.723529,18.944167 76.020204,-1.1111258"
+             inkscape:label="RadialGridline128"
+             id="path86427"
+             inkscape:original-d="M 90.723529,18.944167 76.020204,-1.1111258" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 90.380472,19.200191 75.334091,-0.59898417"
+             inkscape:label="RadialGridline129"
+             id="path86429"
+             inkscape:original-d="M 90.380472,19.200191 75.334091,-0.59898417" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 90.041926,19.462136 74.657,-0.07518801"
+             inkscape:label="RadialGridline130"
+             id="path86431"
+             inkscape:original-d="M 90.041926,19.462136 74.657,-0.07518801" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 89.707892,19.729909 73.988932,0.46026269"
+             inkscape:label="RadialGridline131"
+             id="path86433"
+             inkscape:original-d="M 89.707892,19.729909 73.988932,0.46026269" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 89.378558,20.00332 73.330168,1.0071799"
+             inkscape:label="RadialGridline132"
+             id="path86435"
+             inkscape:original-d="M 89.378558,20.00332 73.330168,1.0071799" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 89.053922,20.282371 72.680992,1.5652818"
+             inkscape:label="RadialGridline133"
+             id="path86437"
+             inkscape:original-d="M 89.053922,20.282371 72.680992,1.5652818" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 88.734175,20.566967 72.041496,2.1344742"
+             inkscape:label="RadialGridline134"
+             id="path86439"
+             inkscape:original-d="M 88.734175,20.566967 72.041496,2.1344742" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 88.419314,20.857015 71.411869,2.7145693"
+             inkscape:label="RadialGridline135"
+             id="path86441"
+             inkscape:original-d="M 88.419314,20.857015 71.411869,2.7145693" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 88.109529,21.152514 70.792299,3.3054731"
+             inkscape:label="RadialGridline136"
+             id="path86443"
+             inkscape:original-d="M 88.109529,21.152514 70.792299,3.3054731" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 87.804913,21.453182 70.182974,3.9069974"
+             inkscape:label="RadialGridline137"
+             id="path86445"
+             inkscape:original-d="M 87.804913,21.453182 70.182974,3.9069974" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 87.505467,21.759113 69.584175,4.5188605"
+             inkscape:label="RadialGridline138"
+             id="path86447"
+             inkscape:original-d="M 87.505467,21.759113 69.584175,4.5188605" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 87.211378,22.070214 68.995997,5.1408744"
+             inkscape:label="RadialGridline139"
+             id="path86449"
+             inkscape:original-d="M 87.211378,22.070214 68.995997,5.1408744" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 86.922646,22.386203 68.418534,5.7730389"
+             inkscape:label="RadialGridline140"
+             id="path86451"
+             inkscape:original-d="M 86.922646,22.386203 68.418534,5.7730389" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 86.63946,22.707266 67.852067,6.4149782"
+             inkscape:label="RadialGridline141"
+             id="path86453"
+             inkscape:original-d="M 86.63946,22.707266 67.852067,6.4149782" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 86.361819,23.033029 67.296785,7.0665983"
+             inkscape:label="RadialGridline142"
+             id="path86455"
+             inkscape:original-d="M 86.361819,23.033029 67.296785,7.0665983" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 86.089817,23.363586 66.752781,7.7277112"
+             inkscape:label="RadialGridline143"
+             id="path86457"
+             inkscape:original-d="M 86.089817,23.363586 66.752781,7.7277112" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 85.823548,23.698748 66.22015,8.3980349"
+             inkscape:label="RadialGridline144"
+             id="path86459"
+             inkscape:original-d="M 85.823548,23.698748 66.22015,8.3980349" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 85.563013,24.038421 65.699267,9.0774755"
+             inkscape:label="RadialGridline145"
+             id="path86461"
+             inkscape:original-d="M 85.563013,24.038421 65.699267,9.0774755" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 85.308493,24.382606 65.190039,9.765751"
+             inkscape:label="RadialGridline146"
+             id="path86463"
+             inkscape:original-d="M 85.308493,24.382606 65.190039,9.765751" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 85.0598,24.73102 64.692842,10.462673"
+             inkscape:label="RadialGridline147"
+             id="path86465"
+             inkscape:original-d="M 85.0598,24.73102 64.692842,10.462673" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 84.817217,25.083758 64.207581,11.168055"
+             inkscape:label="RadialGridline148"
+             id="path86467"
+             inkscape:original-d="M 84.817217,25.083758 64.207581,11.168055" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 84.580743,25.440537 63.734632,11.881707"
+             inkscape:label="RadialGridline149"
+             id="path86469"
+             inkscape:original-d="M 84.580743,25.440537 63.734632,11.881707" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 84.350472,25.801451 63.27409,12.603348"
+             inkscape:label="RadialGridline150"
+             id="path86471"
+             inkscape:original-d="M 84.350472,25.801451 63.27409,12.603348" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 84.126404,26.166126 62.825954,13.332885"
+             inkscape:label="RadialGridline151"
+             id="path86473"
+             inkscape:original-d="M 84.126404,26.166126 62.825954,13.332885" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 83.908633,26.534747 62.390413,14.070034"
+             inkscape:label="RadialGridline152"
+             id="path86475"
+             inkscape:original-d="M 83.908633,26.534747 62.390413,14.070034" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 83.697254,26.90694 61.967654,14.814514"
+             inkscape:label="RadialGridline153"
+             id="path86477"
+             inkscape:original-d="M 83.697254,26.90694 61.967654,14.814514" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 83.492359,27.282799 61.557866,15.566138"
+             inkscape:label="RadialGridline154"
+             id="path86479"
+             inkscape:original-d="M 83.492359,27.282799 61.557866,15.566138" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 83.29395,27.662136 61.160954,16.324717"
+             inkscape:label="RadialGridline155"
+             id="path86481"
+             inkscape:original-d="M 83.29395,27.662136 61.160954,16.324717" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 83.102026,28.044761 60.7772,17.090062"
+             inkscape:label="RadialGridline156"
+             id="path86483"
+             inkscape:original-d="M 83.102026,28.044761 60.7772,17.090062" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 82.916776,28.430677 60.406698,17.861893"
+             inkscape:label="RadialGridline157"
+             id="path86485"
+             inkscape:original-d="M 82.916776,28.430677 60.406698,17.861893" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 82.738198,28.819694 60.049543,18.639928"
+             inkscape:label="RadialGridline158"
+             id="path86487"
+             inkscape:original-d="M 82.738198,28.819694 60.049543,18.639928" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 82.566294,29.211813 59.705828,19.424071"
+             inkscape:label="RadialGridline159"
+             id="path86489"
+             inkscape:original-d="M 82.566294,29.211813 59.705828,19.424071" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 82.40125,29.606732 59.375554,20.214042"
+             inkscape:label="RadialGridline160"
+             id="path86491"
+             inkscape:original-d="M 82.40125,29.606732 59.375554,20.214042" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 82.242974,30.004471 59.059096,21.009464"
+             inkscape:label="RadialGridline161"
+             id="path86493"
+             inkscape:original-d="M 82.242974,30.004471 59.059096,21.009464" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 82.091559,30.404871 58.756266,21.810243"
+             inkscape:label="RadialGridline162"
+             id="path86495"
+             inkscape:original-d="M 82.091559,30.404871 58.756266,21.810243" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.9471,30.807826 58.467252,22.616192"
+             inkscape:label="RadialGridline163"
+             id="path86497"
+             inkscape:original-d="M 81.9471,30.807826 58.467252,22.616192" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.809501,31.213207 58.192243,23.426934"
+             inkscape:label="RadialGridline164"
+             id="path86499"
+             inkscape:original-d="M 81.809501,31.213207 58.192243,23.426934" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.679045,31.62089 57.931144,24.242281"
+             inkscape:label="RadialGridline165"
+             id="path86501"
+             inkscape:original-d="M 81.679045,31.62089 57.931144,24.242281" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.555545,32.030763 57.684237,25.062046"
+             inkscape:label="RadialGridline166"
+             id="path86503"
+             inkscape:original-d="M 81.555545,32.030763 57.684237,25.062046" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.439093,32.442704 57.451334,25.885947"
+             inkscape:label="RadialGridline167"
+             id="path86505"
+             inkscape:original-d="M 81.439093,32.442704 57.451334,25.885947" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.329785,32.856581 57.232717,26.713701"
+             inkscape:label="RadialGridline168"
+             id="path86507"
+             inkscape:original-d="M 81.329785,32.856581 57.232717,26.713701" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.22762,33.27229 57.028387,27.54512"
+             inkscape:label="RadialGridline169"
+             id="path86509"
+             inkscape:original-d="M 81.22762,33.27229 57.028387,27.54512" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.132598,33.689682 56.838437,28.379923"
+             inkscape:label="RadialGridline170"
+             id="path86511"
+             inkscape:original-d="M 81.132598,33.689682 56.838437,28.379923" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.044813,34.108654 56.662773,29.217828"
+             inkscape:label="RadialGridline171"
+             id="path86513"
+             inkscape:original-d="M 81.044813,34.108654 56.662773,29.217828" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.964265,34.529082 56.501677,30.058693"
+             inkscape:label="RadialGridline172"
+             id="path86515"
+             inkscape:original-d="M 80.964265,34.529082 56.501677,30.058693" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.890954,34.950825 56.355056,30.90219"
+             inkscape:label="RadialGridline173"
+             id="path86517"
+             inkscape:original-d="M 80.890954,34.950825 56.355056,30.90219" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.824881,35.373772 56.222908,31.748075"
+             inkscape:label="RadialGridline174"
+             id="path86519"
+             inkscape:original-d="M 80.824881,35.373772 56.222908,31.748075" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.766138,35.79779 56.105329,32.596121"
+             inkscape:label="RadialGridline175"
+             id="path86521"
+             inkscape:original-d="M 80.766138,35.79779 56.105329,32.596121" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.714632,36.222758 56.002412,33.446056"
+             inkscape:label="RadialGridline176"
+             id="path86523"
+             inkscape:original-d="M 80.714632,36.222758 56.002412,33.446056" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.670552,36.648553 55.914157,34.297636"
+             inkscape:label="RadialGridline177"
+             id="path86525"
+             inkscape:original-d="M 80.670552,36.648553 55.914157,34.297636" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.633709,37.075034 55.840564,35.150616"
+             inkscape:label="RadialGridline178"
+             id="path86527"
+             inkscape:original-d="M 80.633709,37.075034 55.840564,35.150616" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.60429,37.502097 55.781634,36.004724"
+             inkscape:label="RadialGridline179"
+             id="path86529"
+             inkscape:original-d="M 80.60429,37.502097 55.781634,36.004724" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.582203,37.929593 55.737459,36.859735"
+             inkscape:label="RadialGridline180"
+             id="path86531"
+             inkscape:original-d="M 80.582203,37.929593 55.737459,36.859735" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.567447,38.357415 55.708041,37.715366"
+             inkscape:label="RadialGridline181"
+             id="path86533"
+             inkscape:original-d="M 80.567447,38.357415 55.708041,37.715366" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.560022,38.785424 55.693285,38.571387"
+             inkscape:label="RadialGridline182"
+             id="path86535"
+             inkscape:original-d="M 80.560022,38.785424 55.693285,38.571387" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.560022,39.213497 55.693285,39.427533"
+             inkscape:label="RadialGridline183"
+             id="path86537"
+             inkscape:original-d="M 80.560022,39.213497 55.693285,39.427533" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.567447,39.641506 55.708041,40.283555"
+             inkscape:label="RadialGridline184"
+             id="path86539"
+             inkscape:original-d="M 80.567447,39.641506 55.708041,40.283555" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.582203,40.069328 55.737459,41.139186"
+             inkscape:label="RadialGridline185"
+             id="path86541"
+             inkscape:original-d="M 80.582203,40.069328 55.737459,41.139186" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.60429,40.496824 55.781634,41.994197"
+             inkscape:label="RadialGridline186"
+             id="path86543"
+             inkscape:original-d="M 80.60429,40.496824 55.781634,41.994197" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.633709,40.923887 55.840564,42.848305"
+             inkscape:label="RadialGridline187"
+             id="path86545"
+             inkscape:original-d="M 80.633709,40.923887 55.840564,42.848305" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.670552,41.350368 55.914157,43.701285"
+             inkscape:label="RadialGridline188"
+             id="path86547"
+             inkscape:original-d="M 80.670552,41.350368 55.914157,43.701285" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 80.714632,41.776163 -24.71222,2.776702"
+             inkscape:label="RadialGridline189"
+             id="path86549"
+             inkscape:original-d="m 80.714632,41.776163 -24.71222,2.776702" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.766138,42.20113 56.105329,45.4028"
+             inkscape:label="RadialGridline190"
+             id="path86551"
+             inkscape:original-d="M 80.766138,42.20113 56.105329,45.4028" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.824881,42.625149 56.222908,46.250846"
+             inkscape:label="RadialGridline191"
+             id="path86553"
+             inkscape:original-d="M 80.824881,42.625149 56.222908,46.250846" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.890954,43.048096 56.355056,47.096731"
+             inkscape:label="RadialGridline192"
+             id="path86555"
+             inkscape:original-d="M 80.890954,43.048096 56.355056,47.096731" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 80.964265,43.469839 56.501677,47.940228"
+             inkscape:label="RadialGridline193"
+             id="path86557"
+             inkscape:original-d="M 80.964265,43.469839 56.501677,47.940228" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 81.044813,43.890267 -24.38204,4.890826"
+             inkscape:label="RadialGridline194"
+             id="path86559"
+             inkscape:original-d="m 81.044813,43.890267 -24.38204,4.890826" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 81.132598,44.309238 -24.294161,5.30976"
+             inkscape:label="RadialGridline195"
+             id="path86561"
+             inkscape:original-d="m 81.132598,44.309238 -24.294161,5.30976" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 81.22762,44.726631 -24.199233,5.72717"
+             inkscape:label="RadialGridline196"
+             id="path86563"
+             inkscape:original-d="m 81.22762,44.726631 -24.199233,5.72717" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.329785,45.14234 57.232717,51.28522"
+             inkscape:label="RadialGridline197"
+             id="path86565"
+             inkscape:original-d="M 81.329785,45.14234 57.232717,51.28522" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.439093,45.556217 57.451334,52.112974"
+             inkscape:label="RadialGridline198"
+             id="path86567"
+             inkscape:original-d="M 81.439093,45.556217 57.451334,52.112974" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.555545,45.968158 57.684237,52.936875"
+             inkscape:label="RadialGridline199"
+             id="path86569"
+             inkscape:original-d="M 81.555545,45.968158 57.684237,52.936875" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.679045,46.378031 57.931144,53.75664"
+             inkscape:label="RadialGridline200"
+             id="path86571"
+             inkscape:original-d="M 81.679045,46.378031 57.931144,53.75664" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.809501,46.785714 58.192243,54.571987"
+             inkscape:label="RadialGridline201"
+             id="path86573"
+             inkscape:original-d="M 81.809501,46.785714 58.192243,54.571987" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 81.9471,47.191095 58.467252,55.382729"
+             inkscape:label="RadialGridline202"
+             id="path86575"
+             inkscape:original-d="M 81.9471,47.191095 58.467252,55.382729" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 82.091559,47.59405 58.756266,56.188678"
+             inkscape:label="RadialGridline203"
+             id="path86577"
+             inkscape:original-d="M 82.091559,47.59405 58.756266,56.188678" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 82.242974,47.994449 59.059096,56.989457"
+             inkscape:label="RadialGridline204"
+             id="path86579"
+             inkscape:original-d="M 82.242974,47.994449 59.059096,56.989457" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 82.40125,48.392189 -23.025696,9.39269"
+             inkscape:label="RadialGridline205"
+             id="path86581"
+             inkscape:original-d="m 82.40125,48.392189 -23.025696,9.39269" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 82.566294,48.787108 59.705828,58.57485"
+             inkscape:label="RadialGridline206"
+             id="path86583"
+             inkscape:original-d="M 82.566294,48.787108 59.705828,58.57485" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 82.738198,49.179227 60.049543,59.358993"
+             inkscape:label="RadialGridline207"
+             id="path86585"
+             inkscape:original-d="M 82.738198,49.179227 60.049543,59.358993" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 82.916776,49.568244 60.406698,60.137028"
+             inkscape:label="RadialGridline208"
+             id="path86587"
+             inkscape:original-d="M 82.916776,49.568244 60.406698,60.137028" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 83.102026,49.954159 60.7772,60.908859"
+             inkscape:label="RadialGridline209"
+             id="path86589"
+             inkscape:original-d="M 83.102026,49.954159 60.7772,60.908859" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 83.29395,50.336785 61.160954,61.674204"
+             inkscape:label="RadialGridline210"
+             id="path86591"
+             inkscape:original-d="M 83.29395,50.336785 61.160954,61.674204" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 83.492359,50.716122 61.557866,62.432783"
+             inkscape:label="RadialGridline211"
+             id="path86593"
+             inkscape:original-d="M 83.492359,50.716122 61.557866,62.432783" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 83.697254,51.09198 -21.7296,12.092426"
+             inkscape:label="RadialGridline212"
+             id="path86595"
+             inkscape:original-d="m 83.697254,51.09198 -21.7296,12.092426" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 83.908633,51.464174 62.390413,63.928887"
+             inkscape:label="RadialGridline213"
+             id="path86597"
+             inkscape:original-d="M 83.908633,51.464174 62.390413,63.928887" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 84.126404,51.832795 62.825954,64.666036"
+             inkscape:label="RadialGridline214"
+             id="path86599"
+             inkscape:original-d="M 84.126404,51.832795 62.825954,64.666036" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 84.350472,52.197469 63.27409,65.395573"
+             inkscape:label="RadialGridline215"
+             id="path86601"
+             inkscape:original-d="M 84.350472,52.197469 63.27409,65.395573" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 84.580743,52.558384 63.734632,66.117214"
+             inkscape:label="RadialGridline216"
+             id="path86603"
+             inkscape:original-d="M 84.580743,52.558384 63.734632,66.117214" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 84.817217,52.915163 64.207581,66.830866"
+             inkscape:label="RadialGridline217"
+             id="path86605"
+             inkscape:original-d="M 84.817217,52.915163 64.207581,66.830866" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 85.0598,53.267901 64.692842,67.536247"
+             inkscape:label="RadialGridline218"
+             id="path86607"
+             inkscape:original-d="M 85.0598,53.267901 64.692842,67.536247" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 85.308493,53.616315 65.190039,68.23317"
+             inkscape:label="RadialGridline219"
+             id="path86609"
+             inkscape:original-d="M 85.308493,53.616315 65.190039,68.23317" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 85.563013,53.9605 65.699267,68.921445"
+             inkscape:label="RadialGridline220"
+             id="path86611"
+             inkscape:original-d="M 85.563013,53.9605 65.699267,68.921445" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 85.823548,54.300173 66.22015,69.600886"
+             inkscape:label="RadialGridline221"
+             id="path86613"
+             inkscape:original-d="M 85.823548,54.300173 66.22015,69.600886" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 86.089817,54.635335 66.752781,70.27121"
+             inkscape:label="RadialGridline222"
+             id="path86615"
+             inkscape:original-d="M 86.089817,54.635335 66.752781,70.27121" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 86.361819,54.965892 67.296785,70.932323"
+             inkscape:label="RadialGridline223"
+             id="path86617"
+             inkscape:original-d="M 86.361819,54.965892 67.296785,70.932323" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 86.63946,55.291655 67.852067,71.583943"
+             inkscape:label="RadialGridline224"
+             id="path86619"
+             inkscape:original-d="M 86.63946,55.291655 67.852067,71.583943" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 86.922646,55.612718 68.418534,72.225882"
+             inkscape:label="RadialGridline225"
+             id="path86621"
+             inkscape:original-d="M 86.922646,55.612718 68.418534,72.225882" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 87.211378,55.928706 68.995997,72.858047"
+             inkscape:label="RadialGridline226"
+             id="path86623"
+             inkscape:original-d="M 87.211378,55.928706 68.995997,72.858047" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 87.505467,56.239807 69.584175,73.48006"
+             inkscape:label="RadialGridline227"
+             id="path86625"
+             inkscape:original-d="M 87.505467,56.239807 69.584175,73.48006" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 87.804913,56.545739 70.182974,74.091923"
+             inkscape:label="RadialGridline228"
+             id="path86627"
+             inkscape:original-d="M 87.804913,56.545739 70.182974,74.091923" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 88.109529,56.846407 70.792299,74.693448"
+             inkscape:label="RadialGridline229"
+             id="path86629"
+             inkscape:original-d="M 88.109529,56.846407 70.792299,74.693448" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 88.419314,57.141906 71.411869,75.284352"
+             inkscape:label="RadialGridline230"
+             id="path86631"
+             inkscape:original-d="M 88.419314,57.141906 71.411869,75.284352" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 88.734175,57.431954 72.041496,75.864447"
+             inkscape:label="RadialGridline231"
+             id="path86633"
+             inkscape:original-d="M 88.734175,57.431954 72.041496,75.864447" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 89.053922,57.71655 72.680992,76.433639"
+             inkscape:label="RadialGridline232"
+             id="path86635"
+             inkscape:original-d="M 89.053922,57.71655 72.680992,76.433639" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 89.378558,57.995601 -16.04839,18.99614"
+             inkscape:label="RadialGridline233"
+             id="path86637"
+             inkscape:original-d="m 89.378558,57.995601 -16.04839,18.99614" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 89.707892,58.269012 73.988932,77.538658"
+             inkscape:label="RadialGridline234"
+             id="path86639"
+             inkscape:original-d="M 89.707892,58.269012 73.988932,77.538658" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 90.041926,58.536785 74.657,78.074109"
+             inkscape:label="RadialGridline235"
+             id="path86641"
+             inkscape:original-d="M 90.041926,58.536785 74.657,78.074109" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 90.380472,58.79873 75.334091,78.597905"
+             inkscape:label="RadialGridline236"
+             id="path86643"
+             inkscape:original-d="M 90.380472,58.79873 75.334091,78.597905" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 90.723529,59.054754 76.020204,79.110047"
+             inkscape:label="RadialGridline237"
+             id="path86645"
+             inkscape:original-d="M 90.723529,59.054754 76.020204,79.110047" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 91.070909,59.304856 -14.35585,20.30549"
+             inkscape:label="RadialGridline238"
+             id="path86647"
+             inkscape:original-d="m 91.070909,59.304856 -14.35585,20.30549" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 91.422613,59.549037 77.418279,80.09852"
+             inkscape:label="RadialGridline239"
+             id="path86649"
+             inkscape:original-d="M 91.422613,59.549037 77.418279,80.09852" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 91.778358,59.787016 78.129957,80.574571"
+             inkscape:label="RadialGridline240"
+             id="path86651"
+             inkscape:original-d="M 91.778358,59.787016 78.129957,80.574571" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 92.138239,60.018884 78.849625,81.038308"
+             inkscape:label="RadialGridline241"
+             id="path86653"
+             inkscape:original-d="M 92.138239,60.018884 78.849625,81.038308" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 92.501973,60.244456 79.577187,81.489546"
+             inkscape:label="RadialGridline242"
+             id="path86655"
+             inkscape:original-d="M 92.501973,60.244456 79.577187,81.489546" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 92.869655,60.463824 80.312363,81.928188"
+             inkscape:label="RadialGridline243"
+             id="path86657"
+             inkscape:original-d="M 92.869655,60.463824 80.312363,81.928188" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 93.241002,60.676802 81.055058,82.354143"
+             inkscape:label="RadialGridline244"
+             id="path86659"
+             inkscape:original-d="M 93.241002,60.676802 81.055058,82.354143" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 93.615921,60.883388 81.804989,82.767221"
+             inkscape:label="RadialGridline245"
+             id="path86661"
+             inkscape:original-d="M 93.615921,60.883388 81.804989,82.767221" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 93.994318,61.083395 82.561876,83.167329"
+             inkscape:label="RadialGridline246"
+             id="path86663"
+             inkscape:original-d="M 93.994318,61.083395 82.561876,83.167329" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 94.376192,61.276916 83.32553,83.554372"
+             inkscape:label="RadialGridline247"
+             id="path86665"
+             inkscape:original-d="M 94.376192,61.276916 83.32553,83.554372" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 94.761261,61.463859 84.095764,83.928257"
+             inkscape:label="RadialGridline248"
+             id="path86667"
+             inkscape:original-d="M 94.761261,61.463859 84.095764,83.928257" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 95.149526,61.644128 84.872294,84.288796"
+             inkscape:label="RadialGridline249"
+             id="path86669"
+             inkscape:original-d="M 95.149526,61.644128 84.872294,84.288796" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 95.540893,61.81763 85.654934,84.635894"
+             inkscape:label="RadialGridline250"
+             id="path86671"
+             inkscape:original-d="M 95.540893,61.81763 85.654934,84.635894" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 95.93508,61.984459 86.443401,84.969458"
+             inkscape:label="RadialGridline251"
+             id="path86673"
+             inkscape:original-d="M 95.93508,61.984459 86.443401,84.969458" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 96.33217,62.144427 87.237507,85.289394"
+             inkscape:label="RadialGridline252"
+             id="path86675"
+             inkscape:original-d="M 96.33217,62.144427 87.237507,85.289394" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 96.731921,62.297534 88.03697,85.595607"
+             inkscape:label="RadialGridline253"
+             id="path86677"
+             inkscape:original-d="M 96.731921,62.297534 88.03697,85.595607" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 97.134247,62.44378 88.841603,85.888099"
+             inkscape:label="RadialGridline254"
+             id="path86679"
+             inkscape:original-d="M 97.134247,62.44378 88.841603,85.888099" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 97.539035,62.58307 89.651217,86.166586"
+             inkscape:label="RadialGridline255"
+             id="path86681"
+             inkscape:original-d="M 97.539035,62.58307 89.651217,86.166586" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 97.946154,62.715311 90.465437,86.431162"
+             inkscape:label="RadialGridline256"
+             id="path86683"
+             inkscape:original-d="M 97.946154,62.715311 90.465437,86.431162" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 98.355492,62.840598 91.284168,86.681735"
+             inkscape:label="RadialGridline257"
+             id="path86685"
+             inkscape:original-d="M 98.355492,62.840598 91.284168,86.681735" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 98.766925,62.958741 -6.65989,23.95928"
+             inkscape:label="RadialGridline258"
+             id="path86687"
+             inkscape:original-d="m 98.766925,62.958741 -6.65989,23.95928" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 99.180332,63.069835 92.933849,87.140209"
+             inkscape:label="RadialGridline259"
+             id="path86689"
+             inkscape:original-d="M 99.180332,63.069835 92.933849,87.140209" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 99.595591,63.173786 93.764329,87.348205"
+             inkscape:label="RadialGridline260"
+             id="path86691"
+             inkscape:original-d="M 99.595591,63.173786 93.764329,87.348205" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 100.01258,63.270594 94.598286,87.541727"
+             inkscape:label="RadialGridline261"
+             id="path86693"
+             inkscape:original-d="M 100.01258,63.270594 94.598286,87.541727" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 100.43116,63.360164 95.435439,87.720962"
+             inkscape:label="RadialGridline262"
+             id="path86695"
+             inkscape:original-d="M 100.43116,63.360164 95.435439,87.720962" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 100.85124,63.442592 96.275618,87.885724"
+             inkscape:label="RadialGridline263"
+             id="path86697"
+             inkscape:original-d="M 100.85124,63.442592 96.275618,87.885724" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 101.27266,63.517689 97.118466,88.036011"
+             inkscape:label="RadialGridline264"
+             id="path86699"
+             inkscape:original-d="M 101.27266,63.517689 97.118466,88.036011" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 101.69532,63.585642 97.963787,88.17173"
+             inkscape:label="RadialGridline265"
+             id="path86701"
+             inkscape:original-d="M 101.69532,63.585642 97.963787,88.17173" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 102.11908,63.64617 98.811316,88.292974"
+             inkscape:label="RadialGridline266"
+             id="path86703"
+             inkscape:original-d="M 102.11908,63.64617 98.811316,88.292974" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 102.54382,63.699462 99.6608,88.399463"
+             inkscape:label="RadialGridline267"
+             id="path86705"
+             inkscape:original-d="M 102.54382,63.699462 99.6608,88.399463" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 102.96942,63.745422 -2.45743,24.746055"
+             inkscape:label="RadialGridline268"
+             id="path86707"
+             inkscape:original-d="m 102.96942,63.745422 -2.45743,24.746055" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 103.39575,63.784051 -2.0311,24.784685"
+             inkscape:label="RadialGridline269"
+             id="path86709"
+             inkscape:original-d="m 103.39575,63.784051 -2.0311,24.784685" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 103.82267,63.815349 102.2185,88.631238"
+             inkscape:label="RadialGridline270"
+             id="path86711"
+             inkscape:original-d="M 103.82267,63.815349 102.2185,88.631238" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 104.25007,63.839316 103.0733,88.679172"
+             inkscape:label="RadialGridline271"
+             id="path86713"
+             inkscape:original-d="M 104.25007,63.839316 103.0733,88.679172" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 104.67783,63.855858 103.9288,88.71235"
+             inkscape:label="RadialGridline272"
+             id="path86715"
+             inkscape:original-d="M 104.67783,63.855858 103.9288,88.71235" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 105.1058,63.865069 -0.32105,24.865702"
+             inkscape:label="RadialGridline273"
+             id="path86717"
+             inkscape:original-d="m 105.1058,63.865069 -0.32105,24.865702" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 105.53387,63.866949 0.10702,24.867488"
+             inkscape:label="RadialGridline274"
+             id="path86719"
+             inkscape:original-d="m 105.53387,63.866949 0.10702,24.867488" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 105.96191,63.861403 0.53505,24.861943"
+             inkscape:label="RadialGridline275"
+             id="path86721"
+             inkscape:original-d="m 105.96191,63.861403 0.53505,24.861943" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 106.38979,63.848527 0.96293,24.849067"
+             inkscape:label="RadialGridline276"
+             id="path86723"
+             inkscape:original-d="m 106.38979,63.848527 0.96293,24.849067" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 106.81738,63.828226 1.39053,24.828859"
+             inkscape:label="RadialGridline277"
+             id="path86725"
+             inkscape:original-d="m 106.81738,63.828226 1.39053,24.828859" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 107.24457,63.800687 1.8177,24.801133"
+             inkscape:label="RadialGridline278"
+             id="path86727"
+             inkscape:original-d="m 107.24457,63.800687 1.8177,24.801133" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 107.67121,63.765723 2.24434,24.766169"
+             inkscape:label="RadialGridline279"
+             id="path86729"
+             inkscape:original-d="m 107.67121,63.765723 2.24434,24.766169" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 108.09718,63.723335 2.67033,24.723968"
+             inkscape:label="RadialGridline280"
+             id="path86731"
+             inkscape:original-d="m 108.09718,63.723335 2.67033,24.723968" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 108.52236,63.673709 3.09552,24.674342"
+             inkscape:label="RadialGridline281"
+             id="path86733"
+             inkscape:original-d="m 108.52236,63.673709 3.09552,24.674342" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 108.94664,63.616846 3.51978,24.617292"
+             inkscape:label="RadialGridline282"
+             id="path86735"
+             inkscape:original-d="m 108.94664,63.616846 3.51978,24.617292" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 109.36986,63.552558 3.94301,24.553098"
+             inkscape:label="RadialGridline283"
+             id="path86737"
+             inkscape:original-d="m 109.36986,63.552558 3.94301,24.553098" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 109.79192,63.481033 114.15698,87.9627"
+             inkscape:label="RadialGridline284"
+             id="path86739"
+             inkscape:original-d="M 109.79192,63.481033 114.15698,87.9627" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 110.21268,63.402271 4.78584,24.402905"
+             inkscape:label="RadialGridline285"
+             id="path86741"
+             inkscape:original-d="m 110.21268,63.402271 4.78584,24.402905" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 110.63203,63.316272 5.20514,24.316905"
+             inkscape:label="RadialGridline286"
+             id="path86743"
+             inkscape:original-d="m 110.63203,63.316272 5.20514,24.316905" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 111.04983,63.22313 5.62299,24.223575"
+             inkscape:label="RadialGridline287"
+             id="path86745"
+             inkscape:original-d="m 111.04983,63.22313 5.62299,24.223575" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 111.46597,63.12275 6.03912,24.123196"
+             inkscape:label="RadialGridline288"
+             id="path86747"
+             inkscape:original-d="m 111.46597,63.12275 6.03912,24.123196" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 111.88032,63.015228 6.45346,24.015673"
+             inkscape:label="RadialGridline289"
+             id="path86749"
+             inkscape:original-d="m 111.88032,63.015228 6.45346,24.015673" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 112.29276,62.900562 6.86586,23.901102"
+             inkscape:label="RadialGridline290"
+             id="path86751"
+             inkscape:original-d="m 112.29276,62.900562 6.86586,23.901102" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 112.70316,62.778847 7.27626,23.779387"
+             inkscape:label="RadialGridline291"
+             id="path86753"
+             inkscape:original-d="m 112.70316,62.778847 7.27626,23.779387" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 113.11139,62.650084 7.68451,23.650529"
+             inkscape:label="RadialGridline292"
+             id="path86755"
+             inkscape:original-d="m 113.11139,62.650084 7.68451,23.650529" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 113.51737,62.514271 8.09049,23.51481"
+             inkscape:label="RadialGridline293"
+             id="path86757"
+             inkscape:original-d="m 113.51737,62.514271 8.09049,23.51481" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 113.92093,62.371503 8.4941,23.372042"
+             inkscape:label="RadialGridline294"
+             id="path86759"
+             inkscape:original-d="m 113.92093,62.371503 8.4941,23.372042" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 114.32199,62.221873 8.89514,23.222413"
+             inkscape:label="RadialGridline295"
+             id="path86761"
+             inkscape:original-d="m 114.32199,62.221873 8.89514,23.222413" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 114.72041,62.065289 9.29355,23.065829"
+             inkscape:label="RadialGridline296"
+             id="path86763"
+             inkscape:original-d="m 114.72041,62.065289 9.29355,23.065829" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 115.1161,61.901938 9.68914,22.902383"
+             inkscape:label="RadialGridline297"
+             id="path86765"
+             inkscape:original-d="m 115.1161,61.901938 9.68914,22.902383" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 115.50887,61.731725 125.59089,84.46399"
+             inkscape:label="RadialGridline298"
+             id="path86767"
+             inkscape:original-d="M 115.50887,61.731725 125.59089,84.46399" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 115.89864,61.554839 10.47188,22.555285"
+             inkscape:label="RadialGridline299"
+             id="path86769"
+             inkscape:original-d="m 115.89864,61.554839 10.47188,22.555285" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 116.2854,61.371186 10.85846,22.37182"
+             inkscape:label="RadialGridline300"
+             id="path86771"
+             inkscape:original-d="m 116.2854,61.371186 10.85846,22.37182" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 116.66887,61.180954 127.9109,83.362542"
+             inkscape:label="RadialGridline301"
+             id="path86773"
+             inkscape:original-d="M 116.66887,61.180954 127.9109,83.362542" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 117.04896,60.984237 128.67117,82.96892"
+             inkscape:label="RadialGridline302"
+             id="path86775"
+             inkscape:original-d="M 117.04896,60.984237 128.67117,82.96892" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 117.42576,60.780847 11.99882,21.78148"
+             inkscape:label="RadialGridline303"
+             id="path86777"
+             inkscape:original-d="m 117.42576,60.780847 11.99882,21.78148" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 117.79889,60.571065 12.37195,21.571698"
+             inkscape:label="RadialGridline304"
+             id="path86779"
+             inkscape:original-d="m 117.79889,60.571065 12.37195,21.571698" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 118.16836,60.354986 12.74151,21.355432"
+             inkscape:label="RadialGridline305"
+             id="path86781"
+             inkscape:original-d="m 118.16836,60.354986 12.74151,21.355432" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 118.53407,60.132422 13.10722,21.133056"
+             inkscape:label="RadialGridline306"
+             id="path86783"
+             inkscape:original-d="m 118.53407,60.132422 13.10722,21.133056" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 118.89592,59.903749 132.3649,80.807943"
+             inkscape:label="RadialGridline307"
+             id="path86785"
+             inkscape:original-d="M 118.89592,59.903749 132.3649,80.807943" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 119.25374,59.668778 13.82688,20.669318"
+             inkscape:label="RadialGridline308"
+             id="path86787"
+             inkscape:original-d="m 119.25374,59.668778 13.82688,20.669318" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 119.60751,59.427699 14.18056,20.428238"
+             inkscape:label="RadialGridline309"
+             id="path86789"
+             inkscape:original-d="m 119.60751,59.427699 14.18056,20.428238" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 119.95705,59.180604 14.53011,20.181049"
+             inkscape:label="RadialGridline310"
+             id="path86791"
+             inkscape:original-d="m 119.95705,59.180604 14.53011,20.181049" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 120.30227,58.927494 14.87532,19.928033"
+             inkscape:label="RadialGridline311"
+             id="path86793"
+             inkscape:original-d="m 120.30227,58.927494 14.87532,19.928033" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 120.64307,58.668462 15.21622,19.669002"
+             inkscape:label="RadialGridline312"
+             id="path86795"
+             inkscape:original-d="m 120.64307,58.668462 15.21622,19.669002" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 120.97936,58.403603 136.53187,77.80784"
+             inkscape:label="RadialGridline313"
+             id="path86797"
+             inkscape:original-d="M 120.97936,58.403603 136.53187,77.80784" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 121.31104,58.133011 15.88429,19.133645"
+             inkscape:label="RadialGridline314"
+             id="path86799"
+             inkscape:original-d="m 121.31104,58.133011 15.88429,19.133645" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 121.63812,57.85678 137.8493,76.7141"
+             inkscape:label="RadialGridline315"
+             id="path86801"
+             inkscape:original-d="M 121.63812,57.85678 137.8493,76.7141" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 121.96032,57.57491 16.53336,18.575543"
+             inkscape:label="RadialGridline316"
+             id="path86803"
+             inkscape:original-d="m 121.96032,57.57491 16.53336,18.575543" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 122.27762,57.287588 16.85067,18.288127"
+             inkscape:label="RadialGridline317"
+             id="path86805"
+             inkscape:original-d="m 122.27762,57.287588 16.85067,18.288127" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 122.58985,56.994814 17.16309,17.995355"
+             inkscape:label="RadialGridline318"
+             id="path86807"
+             inkscape:original-d="m 122.58985,56.994814 17.16309,17.995355" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 122.8971,56.696684 17.47024,17.697317"
+             inkscape:label="RadialGridline319"
+             id="path86809"
+             inkscape:original-d="m 122.8971,56.696684 17.47024,17.697317" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 123.19917,56.393384 140.9714,73.787308"
+             inkscape:label="RadialGridline320"
+             id="path86811"
+             inkscape:original-d="M 123.19917,56.393384 140.9714,73.787308" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 123.49589,56.084915 18.06905,17.08536"
+             inkscape:label="RadialGridline321"
+             id="path86813"
+             inkscape:original-d="m 123.49589,56.084915 18.06905,17.08536" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 123.78735,55.77137 18.3605,16.771816"
+             inkscape:label="RadialGridline322"
+             id="path86815"
+             inkscape:original-d="m 123.78735,55.77137 18.3605,16.771816" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 124.07336,55.45275 18.64641,16.453384"
+             inkscape:label="RadialGridline323"
+             id="path86817"
+             inkscape:original-d="m 124.07336,55.45275 18.64641,16.453384" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 124.35382,55.129431 18.92687,16.129876"
+             inkscape:label="RadialGridline324"
+             id="path86819"
+             inkscape:original-d="m 124.35382,55.129431 18.92687,16.129876" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 124.62864,54.801224 19.20179,15.801764"
+             inkscape:label="RadialGridline325"
+             id="path86821"
+             inkscape:original-d="m 124.62864,54.801224 19.20179,15.801764" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 124.89773,54.468318 144.3687,69.937176"
+             inkscape:label="RadialGridline326"
+             id="path86823"
+             inkscape:original-d="M 124.89773,54.468318 144.3687,69.937176" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 125.16118,54.1309 144.8955,69.26234"
+             inkscape:label="RadialGridline327"
+             id="path86825"
+             inkscape:original-d="M 125.16118,54.1309 144.8955,69.26234" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 125.4187,53.788971 19.99186,14.789511"
+             inkscape:label="RadialGridline328"
+             id="path86827"
+             inkscape:original-d="m 125.4187,53.788971 19.99186,14.789511" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 125.67031,53.442625 145.91377,67.88579"
+             inkscape:label="RadialGridline329"
+             id="path86829"
+             inkscape:original-d="M 125.67031,53.442625 145.91377,67.88579" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 125.9159,53.092049 20.48915,14.092589"
+             inkscape:label="RadialGridline330"
+             id="path86831"
+             inkscape:original-d="m 125.9159,53.092049 20.48915,14.092589" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 126.15548,52.737244 146.8841,66.475027"
+             inkscape:label="RadialGridline331"
+             id="path86833"
+             inkscape:original-d="M 126.15548,52.737244 146.8841,66.475027" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 126.38885,52.378397 20.96209,13.378936"
+             inkscape:label="RadialGridline332"
+             id="path86835"
+             inkscape:original-d="m 126.38885,52.378397 20.96209,13.378936" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 126.61611,52.015602 21.18917,13.016142"
+             inkscape:label="RadialGridline333"
+             id="path86837"
+             inkscape:original-d="m 126.61611,52.015602 21.18917,13.016142" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 126.83699,51.648954 21.41013,12.649494"
+             inkscape:label="RadialGridline334"
+             id="path86839"
+             inkscape:original-d="m 126.83699,51.648954 21.41013,12.649494" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 127.05156,51.278547 21.62471,12.279087"
+             inkscape:label="RadialGridline335"
+             id="path86841"
+             inkscape:original-d="m 127.05156,51.278547 21.62471,12.279087" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 127.25975,50.904474 21.83279,11.905014"
+             inkscape:label="RadialGridline336"
+             id="path86843"
+             inkscape:original-d="m 127.25975,50.904474 21.83279,11.905014" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 127.46144,50.526923 22.0345,11.52737"
+             inkscape:label="RadialGridline337"
+             id="path86845"
+             inkscape:original-d="m 127.46144,50.526923 22.0345,11.52737" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 127.65656,50.145895 149.88627,61.29233"
+             inkscape:label="RadialGridline338"
+             id="path86847"
+             inkscape:original-d="M 127.65656,50.145895 149.88627,61.29233" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 127.8451,49.761578 22.41835,10.762117"
+             inkscape:label="RadialGridline339"
+             id="path86849"
+             inkscape:original-d="m 127.8451,49.761578 22.41835,10.762117" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 128.02706,49.374064 22.60022,10.374698"
+             inkscape:label="RadialGridline340"
+             id="path86851"
+             inkscape:original-d="m 128.02706,49.374064 22.60022,10.374698" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 128.20226,48.983543 22.7755,9.984084"
+             inkscape:label="RadialGridline341"
+             id="path86853"
+             inkscape:original-d="m 128.20226,48.983543 22.7755,9.984084" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 128.37078,48.590015 22.94393,9.590554"
+             inkscape:label="RadialGridline342"
+             id="path86855"
+             inkscape:original-d="m 128.37078,48.590015 22.94393,9.590554" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 128.53244,48.193667 23.10568,9.194206"
+             inkscape:label="RadialGridline343"
+             id="path86857"
+             inkscape:original-d="m 128.53244,48.193667 23.10568,9.194206" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 128.68733,47.794574 23.26048,8.795151"
+             inkscape:label="RadialGridline344"
+             id="path86859"
+             inkscape:original-d="m 128.68733,47.794574 23.26048,8.795151" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 128.83527,47.392878 23.40842,8.393436"
+             inkscape:label="RadialGridline345"
+             id="path86861"
+             inkscape:original-d="m 128.83527,47.392878 23.40842,8.393436" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 128.97625,46.988701 23.5494,7.989221"
+             inkscape:label="RadialGridline346"
+             id="path86863"
+             inkscape:original-d="m 128.97625,46.988701 23.5494,7.989221" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="M 129.11028,46.582155 152.7937,54.16483"
+             inkscape:label="RadialGridline347"
+             id="path86865"
+             inkscape:original-d="M 129.11028,46.582155 152.7937,54.16483" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.23735,46.173353 23.8104,7.173874"
+             inkscape:label="RadialGridline348"
+             id="path86867"
+             inkscape:original-d="m 129.23735,46.173353 23.8104,7.173874" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.35728,45.762437 23.93043,6.762957"
+             inkscape:label="RadialGridline349"
+             id="path86869"
+             inkscape:original-d="m 129.35728,45.762437 23.93043,6.762957" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.47016,45.349509 24.04331,6.350011"
+             inkscape:label="RadialGridline350"
+             id="path86871"
+             inkscape:original-d="m 129.47016,45.349509 24.04331,6.350011" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.5759,44.934702 24.14904,5.935278"
+             inkscape:label="RadialGridline351"
+             id="path86873"
+             inkscape:original-d="m 129.5759,44.934702 24.14904,5.935278" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.67449,44.518137 24.24764,5.518638"
+             inkscape:label="RadialGridline352"
+             id="path86875"
+             inkscape:original-d="m 129.67449,44.518137 24.24764,5.518638" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.76585,44.099936 24.33908,5.100438"
+             inkscape:label="RadialGridline353"
+             id="path86877"
+             inkscape:original-d="m 129.76585,44.099936 24.33908,5.100438" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.85006,43.680232 24.42321,4.680762"
+             inkscape:label="RadialGridline354"
+             id="path86879"
+             inkscape:original-d="m 129.85006,43.680232 24.42321,4.680762" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.92704,43.259127 24.50018,4.259667"
+             inkscape:label="RadialGridline355"
+             id="path86881"
+             inkscape:original-d="m 129.92704,43.259127 24.50018,4.259667" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 129.99668,42.836763 24.56992,3.837312"
+             inkscape:label="RadialGridline356"
+             id="path86883"
+             inkscape:original-d="m 129.99668,42.836763 24.56992,3.837312" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.05909,42.413271 24.63233,3.413811"
+             inkscape:label="RadialGridline357"
+             id="path86885"
+             inkscape:original-d="m 130.05909,42.413271 24.63233,3.413811" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.11426,41.988755 24.68741,2.989303"
+             inkscape:label="RadialGridline358"
+             id="path86887"
+             inkscape:original-d="m 130.11426,41.988755 24.68741,2.989303" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.16201,41.563364 24.73524,2.563904"
+             inkscape:label="RadialGridline359"
+             id="path86889"
+             inkscape:original-d="m 130.16201,41.563364 24.73524,2.563904" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.20252,41.137212 24.77566,2.137743"
+             inkscape:label="RadialGridline360"
+             id="path86891"
+             inkscape:original-d="m 130.20252,41.137212 24.77566,2.137743" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.2356,40.710421 24.80884,1.710961"
+             inkscape:label="RadialGridline361"
+             id="path86893"
+             inkscape:original-d="m 130.2356,40.710421 24.80884,1.710961" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.26145,40.283123 24.8345,1.283662"
+             inkscape:label="RadialGridline362"
+             id="path86895"
+             inkscape:original-d="m 130.26145,40.283123 24.8345,1.283662" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.27987,39.855447 24.85292,0.855989"
+             inkscape:label="RadialGridline363"
+             id="path86897"
+             inkscape:original-d="m 130.27987,39.855447 24.85292,0.855989" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             d="m 130.29086,39.427517 24.86402,0.428056"
+             inkscape:label="RadialGridline364"
+             id="path86899"
+             inkscape:original-d="m 130.29086,39.427517 24.86402,0.428056" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 130.29452,38.99946 h 24.86777"
+             inkscape:label="RadialGridline0"
+             id="path87660"
+             inkscape:original-d="m 130.29452,38.99946 h 24.86777" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 130.20251,36.861709 24.77566,-2.137743"
+             inkscape:label="RadialGridline1"
+             id="path87662"
+             inkscape:original-d="m 130.20251,36.861709 24.77566,-2.137743" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 129.92703,34.739794 24.50018,-4.259667"
+             inkscape:label="RadialGridline2"
+             id="path87664"
+             inkscape:original-d="m 129.92703,34.739794 24.50018,-4.259667" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 129.47015,32.649412 24.04331,-6.350011"
+             inkscape:label="RadialGridline3"
+             id="path87666"
+             inkscape:original-d="m 129.47015,32.649412 24.04331,-6.350011" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 128.83526,30.606043 23.40842,-8.393437"
+             inkscape:label="RadialGridline4"
+             id="path87668"
+             inkscape:original-d="m 128.83526,30.606043 23.40842,-8.393437" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 128.02706,28.624856 150.62727,18.250159"
+             inkscape:label="RadialGridline5"
+             id="path87670"
+             inkscape:original-d="M 128.02706,28.624856 150.62727,18.250159" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 127.05155,26.720374 148.67626,14.441287"
+             inkscape:label="RadialGridline6"
+             id="path87672"
+             inkscape:original-d="M 127.05155,26.720374 148.67626,14.441287" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 125.91589,24.906872 146.40504,10.814283"
+             inkscape:label="RadialGridline7"
+             id="path87674"
+             inkscape:original-d="M 125.91589,24.906872 146.40504,10.814283" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 124.62863,23.197697 143.83042,7.3959329"
+             inkscape:label="RadialGridline8"
+             id="path87676"
+             inkscape:original-d="M 124.62863,23.197697 143.83042,7.3959329" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 123.19917,21.605537 140.97139,4.2116132"
+             inkscape:label="RadialGridline9"
+             id="path87678"
+             inkscape:original-d="M 123.19917,21.605537 140.97139,4.2116132" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 121.63812,20.142141 137.84929,1.284821"
+             inkscape:label="RadialGridline10"
+             id="path87680"
+             inkscape:original-d="M 121.63812,20.142141 137.84929,1.284821" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 119.95704,18.818317 134.48715,-1.3627322"
+             inkscape:label="RadialGridline11"
+             id="path87682"
+             inkscape:original-d="M 119.95704,18.818317 134.48715,-1.3627322" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 118.16835,17.643935 130.90986,-3.7114969"
+             inkscape:label="RadialGridline12"
+             id="path87684"
+             inkscape:original-d="M 118.16835,17.643935 130.90986,-3.7114969" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 116.28539,16.627734 127.14385,-5.7440854"
+             inkscape:label="RadialGridline13"
+             id="path87686"
+             inkscape:original-d="M 116.28539,16.627734 127.14385,-5.7440854" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 114.32198,15.777047 8.89514,-23.2224126"
+             inkscape:label="RadialGridline14"
+             id="path87688"
+             inkscape:original-d="m 114.32198,15.777047 8.89514,-23.2224126" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 112.29275,15.098359 6.86586,-23.901102"
+             inkscape:label="RadialGridline15"
+             id="path87690"
+             inkscape:original-d="m 112.29275,15.098359 6.86586,-23.901102" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 110.21268,14.59665 4.78583,-24.4029048"
+             inkscape:label="RadialGridline16"
+             id="path87692"
+             inkscape:original-d="m 110.21268,14.59665 4.78583,-24.4029048" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 108.09717,14.275586 2.67033,-24.723968"
+             inkscape:label="RadialGridline17"
+             id="path87694"
+             inkscape:original-d="m 108.09717,14.275586 2.67033,-24.723968" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 105.9619,14.137518 0.53506,-24.861943"
+             inkscape:label="RadialGridline18"
+             id="path87696"
+             inkscape:original-d="m 105.9619,14.137518 0.53506,-24.861943" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 103.82266,14.183572 -1.60417,-24.815889"
+             inkscape:label="RadialGridline19"
+             id="path87698"
+             inkscape:original-d="m 103.82266,14.183572 -1.60417,-24.815889" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 101.69531,14.413279 97.963779,-10.172809"
+             inkscape:label="RadialGridline20"
+             id="path87700"
+             inkscape:original-d="M 101.69531,14.413279 97.963779,-10.172809" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 99.595583,14.825135 93.764321,-9.3492843"
+             inkscape:label="RadialGridline21"
+             id="path87702"
+             inkscape:original-d="M 99.595583,14.825135 93.764321,-9.3492843" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 97.539027,15.415851 89.65121,-8.1676648"
+             inkscape:label="RadialGridline22"
+             id="path87704"
+             inkscape:original-d="M 97.539027,15.415851 89.65121,-8.1676648" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 95.540885,16.181291 85.654926,-6.6369732"
+             inkscape:label="RadialGridline23"
+             id="path87706"
+             inkscape:original-d="M 95.540885,16.181291 85.654926,-6.6369732" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 93.615913,17.115533 81.804982,-4.7683001"
+             inkscape:label="RadialGridline24"
+             id="path87708"
+             inkscape:original-d="M 93.615913,17.115533 81.804982,-4.7683001" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 91.77835,18.211905 78.129949,-2.5756497"
+             inkscape:label="RadialGridline25"
+             id="path87710"
+             inkscape:original-d="M 91.77835,18.211905 78.129949,-2.5756497" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 90.041918,19.462136 74.656992,-0.07518801"
+             inkscape:label="RadialGridline26"
+             id="path87712"
+             inkscape:original-d="M 90.041918,19.462136 74.656992,-0.07518801" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 88.419306,20.857015 71.411862,2.7145693"
+             inkscape:label="RadialGridline27"
+             id="path87714"
+             inkscape:original-d="M 88.419306,20.857015 71.411862,2.7145693" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 86.922638,22.386203 68.418526,5.7730389"
+             inkscape:label="RadialGridline28"
+             id="path87716"
+             inkscape:original-d="M 86.922638,22.386203 68.418526,5.7730389" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 85.563005,24.038421 65.69926,9.0774755"
+             inkscape:label="RadialGridline29"
+             id="path87718"
+             inkscape:original-d="M 85.563005,24.038421 65.69926,9.0774755" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 84.350464,25.801451 63.274083,12.603348"
+             inkscape:label="RadialGridline30"
+             id="path87720"
+             inkscape:original-d="M 84.350464,25.801451 63.274083,12.603348" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 83.293943,27.662136 61.160946,16.324717"
+             inkscape:label="RadialGridline31"
+             id="path87722"
+             inkscape:original-d="M 83.293943,27.662136 61.160946,16.324717" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 82.401243,29.606732 59.375546,20.214042"
+             inkscape:label="RadialGridline32"
+             id="path87724"
+             inkscape:original-d="M 82.401243,29.606732 59.375546,20.214042" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 81.679037,31.62089 57.931136,24.242281"
+             inkscape:label="RadialGridline33"
+             id="path87726"
+             inkscape:original-d="M 81.679037,31.62089 57.931136,24.242281" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 81.13259,33.689682 56.838429,28.379923"
+             inkscape:label="RadialGridline34"
+             id="path87728"
+             inkscape:original-d="M 81.13259,33.689682 56.838429,28.379923" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 80.76613,35.79779 56.105321,32.596121"
+             inkscape:label="RadialGridline35"
+             id="path87730"
+             inkscape:original-d="M 80.76613,35.79779 56.105321,32.596121" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 80.582195,37.929593 55.737452,36.859735"
+             inkscape:label="RadialGridline36"
+             id="path87732"
+             inkscape:original-d="M 80.582195,37.929593 55.737452,36.859735" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 80.582195,40.069328 55.737452,41.139186"
+             inkscape:label="RadialGridline37"
+             id="path87734"
+             inkscape:original-d="M 80.582195,40.069328 55.737452,41.139186" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 80.76613,42.20113 56.105321,45.4028"
+             inkscape:label="RadialGridline38"
+             id="path87736"
+             inkscape:original-d="M 80.76613,42.20113 56.105321,45.4028" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 81.13259,44.309238 -24.294161,5.30976"
+             inkscape:label="RadialGridline39"
+             id="path87738"
+             inkscape:original-d="m 81.13259,44.309238 -24.294161,5.30976" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 81.679037,46.378031 57.931136,53.75664"
+             inkscape:label="RadialGridline40"
+             id="path87740"
+             inkscape:original-d="M 81.679037,46.378031 57.931136,53.75664" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 82.401243,48.392189 -23.025697,9.39269"
+             inkscape:label="RadialGridline41"
+             id="path87742"
+             inkscape:original-d="m 82.401243,48.392189 -23.025697,9.39269" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 83.293943,50.336785 61.160946,61.674204"
+             inkscape:label="RadialGridline42"
+             id="path87744"
+             inkscape:original-d="M 83.293943,50.336785 61.160946,61.674204" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 84.350464,52.197469 63.274083,65.395573"
+             inkscape:label="RadialGridline43"
+             id="path87746"
+             inkscape:original-d="M 84.350464,52.197469 63.274083,65.395573" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 85.563005,53.9605 65.69926,68.921445"
+             inkscape:label="RadialGridline44"
+             id="path87748"
+             inkscape:original-d="M 85.563005,53.9605 65.69926,68.921445" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 86.922638,55.612718 68.418526,72.225882"
+             inkscape:label="RadialGridline45"
+             id="path87750"
+             inkscape:original-d="M 86.922638,55.612718 68.418526,72.225882" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 88.419306,57.141906 71.411862,75.284352"
+             inkscape:label="RadialGridline46"
+             id="path87752"
+             inkscape:original-d="M 88.419306,57.141906 71.411862,75.284352" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 90.041918,58.536785 74.656992,78.074109"
+             inkscape:label="RadialGridline47"
+             id="path87754"
+             inkscape:original-d="M 90.041918,58.536785 74.656992,78.074109" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 91.77835,59.787016 78.129949,80.574571"
+             inkscape:label="RadialGridline48"
+             id="path87756"
+             inkscape:original-d="M 91.77835,59.787016 78.129949,80.574571" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 93.615913,60.883388 81.804982,82.767221"
+             inkscape:label="RadialGridline49"
+             id="path87758"
+             inkscape:original-d="M 93.615913,60.883388 81.804982,82.767221" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 95.540885,61.81763 85.654926,84.635894"
+             inkscape:label="RadialGridline50"
+             id="path87760"
+             inkscape:original-d="M 95.540885,61.81763 85.654926,84.635894" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 97.539027,62.58307 89.65121,86.166586"
+             inkscape:label="RadialGridline51"
+             id="path87762"
+             inkscape:original-d="M 97.539027,62.58307 89.65121,86.166586" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 99.595583,63.173786 93.764321,87.348205"
+             inkscape:label="RadialGridline52"
+             id="path87764"
+             inkscape:original-d="M 99.595583,63.173786 93.764321,87.348205" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 101.69531,63.585642 97.963779,88.17173"
+             inkscape:label="RadialGridline53"
+             id="path87766"
+             inkscape:original-d="M 101.69531,63.585642 97.963779,88.17173" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 103.82266,63.815349 -1.60417,24.815889"
+             inkscape:label="RadialGridline54"
+             id="path87768"
+             inkscape:original-d="m 103.82266,63.815349 -1.60417,24.815889" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 105.9619,63.861403 0.53506,24.861943"
+             inkscape:label="RadialGridline55"
+             id="path87770"
+             inkscape:original-d="m 105.9619,63.861403 0.53506,24.861943" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 108.09717,63.723335 2.67033,24.723968"
+             inkscape:label="RadialGridline56"
+             id="path87772"
+             inkscape:original-d="m 108.09717,63.723335 2.67033,24.723968" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 110.21268,63.402271 4.78583,24.402905"
+             inkscape:label="RadialGridline57"
+             id="path87774"
+             inkscape:original-d="m 110.21268,63.402271 4.78583,24.402905" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 112.29275,62.900562 6.86586,23.901102"
+             inkscape:label="RadialGridline58"
+             id="path87776"
+             inkscape:original-d="m 112.29275,62.900562 6.86586,23.901102" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 114.32198,62.221873 8.89514,23.222413"
+             inkscape:label="RadialGridline59"
+             id="path87778"
+             inkscape:original-d="m 114.32198,62.221873 8.89514,23.222413" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 116.28539,61.371186 10.85846,22.37182"
+             inkscape:label="RadialGridline60"
+             id="path87780"
+             inkscape:original-d="m 116.28539,61.371186 10.85846,22.37182" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 118.16835,60.354986 12.74151,21.355432"
+             inkscape:label="RadialGridline61"
+             id="path87782"
+             inkscape:original-d="m 118.16835,60.354986 12.74151,21.355432" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 119.95704,59.180604 14.53011,20.181049"
+             inkscape:label="RadialGridline62"
+             id="path87784"
+             inkscape:original-d="m 119.95704,59.180604 14.53011,20.181049" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="M 121.63812,57.85678 137.84929,76.7141"
+             inkscape:label="RadialGridline63"
+             id="path87786"
+             inkscape:original-d="M 121.63812,57.85678 137.84929,76.7141" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 123.19917,56.393384 17.77222,17.393924"
+             inkscape:label="RadialGridline64"
+             id="path87788"
+             inkscape:original-d="m 123.19917,56.393384 17.77222,17.393924" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 124.62863,54.801224 19.20179,15.801764"
+             inkscape:label="RadialGridline65"
+             id="path87790"
+             inkscape:original-d="m 124.62863,54.801224 19.20179,15.801764" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 125.91589,53.092049 20.48915,14.092589"
+             inkscape:label="RadialGridline66"
+             id="path87792"
+             inkscape:original-d="m 125.91589,53.092049 20.48915,14.092589" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 127.05155,51.278547 21.62471,12.279087"
+             inkscape:label="RadialGridline67"
+             id="path87794"
+             inkscape:original-d="m 127.05155,51.278547 21.62471,12.279087" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 128.02706,49.374064 22.60021,10.374698"
+             inkscape:label="RadialGridline68"
+             id="path87796"
+             inkscape:original-d="m 128.02706,49.374064 22.60021,10.374698" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 128.83526,47.392878 23.40842,8.393436"
+             inkscape:label="RadialGridline69"
+             id="path87798"
+             inkscape:original-d="m 128.83526,47.392878 23.40842,8.393436" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 129.47015,45.349509 24.04331,6.350011"
+             inkscape:label="RadialGridline70"
+             id="path87800"
+             inkscape:original-d="m 129.47015,45.349509 24.04331,6.350011" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 129.92703,43.259127 24.50018,4.259667"
+             inkscape:label="RadialGridline71"
+             id="path87802"
+             inkscape:original-d="m 129.92703,43.259127 24.50018,4.259667" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-opacity:1"
+             d="m 130.20251,41.137212 24.77566,2.137743"
+             inkscape:label="RadialGridline72"
+             id="path87804"
+             inkscape:original-d="m 130.20251,41.137212 24.77566,2.137743" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+%% [PROJECT] CALCULATIONS FOR M.B.A.K.J.A.  %%
+%-------------------------------------------%%
+%      Author: GOTTFRID OLSSON
+%     Created: 2021-10-07, 18:41
+%     Updated: 2021-10-07, 20:07
+%       About: Calculations and plot to be
+%              exported as .svg and used w.
+%              Inkscape to produce a file w.
+%              right dimensions to laser cut.
+%%------------------------------------------%%
+
+%% MBAKJA: Mekanisk Berakning Av Kompensation for Jordens Axellutning
+clc, clf
+
+% CONSTANTS %
+
+alpha = 23.5;               % axial tilt of the Earth
+days_constant = 10;         %[-], given by How To Invent Everything (p.272)
+days_shift = 81.25;
+
+d_kerf = 0.4;               %[mm], laser cutters width %guessed, 2021-10-07 
+
+dday = 5;                   %days between days
+day_to_rad = 2*pi/365;
+deg_to_rad = 2*pi/360;      %[-], conversion factor degrees to radians
+rad_to_deg = 1/deg_to_rad;
+
+
+daysInYear = 0:1:365;
+theta = linspace(0,2*pi);
+degPerDay = 360/365;
+radPerDay = degPerDay*deg_to_rad;
+
+
+
+% FUNCTIONS %
+correction = @(d) alpha*cos(day_to_rad*(d+days_constant+days_shift)); %[deg]
+polar_radius = @(r) ones(250)*r;
+
+% CALCULATIONS %
+%fplot(@(d) cartesian_correction(d), [0 365])
+
+polar_correction_eval = abs(correction(daysInYear));
+
+
+% PLOT % 
+polarplot(polar_correction_eval, 'r', 'LineWidth', 2.5); hold on;
+for i=1:25
+    thickness = 0.2;
+    if mod(i,5)==0
+        thickness=1.5;
+    end
+    polarplot(polar_radius(i), 'b', 'LineWidth', thickness)
+end
+grid off
+
+set(gca,'RTickLabel',[], 'ticklabelinterpreter', 'latex', 'FontSize', 12);
+theta_ticks = daysInYear*dday;
+theta_ticks = theta_ticks(theta_ticks < 366);
+theta_tick_labels = daysInYear*dday;
+thetaticks([theta_ticks])
+thetaticklabels([theta_tick_labels])
+disp("Done")
+
+% EXPORT %
