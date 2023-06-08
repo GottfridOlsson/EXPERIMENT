@@ -22,9 +22,10 @@ from datetime import datetime
 
 
 # READ CSV #
-CSV = pd.read_csv('VATTENINTAG [2023-06-05] - DATA.csv', delimiter=',')
+CSV_filename = 'VATTENINTAG [2023-06-07] - DATA.csv'
+CSV = pd.read_csv(CSV_filename, delimiter=',')
 header = CSV.columns
-print(CSV)
+print(CSV_filename, CSV)
 
 
 # FUNCTIONS #
@@ -129,8 +130,14 @@ plt.show()
 # TODO:
 # med plt.text elr ngt, plotta Q1-Q4 i boxplot med textrutor vid sidan av själva boxen!
 
+quartiles = np.percentile(water_intake_per_day, [0, 25, 50, 75, 100], method='normal_unbiased')
+quartile_explanation_Text = ['Min', '...', 'Median', '...', 'Max']
+for i, Q in enumerate(quartiles):
+    print(f"Quartile {i}: {Q:.1f} L/dag ({quartile_explanation_Text[i]})")
+#sprint(quartiles)
+
 # BOXPLOT #
-plt.boxplot(water_intake_per_day, notch=True, labels=["Gottfrid"], meanline=True, manage_ticks=True)
+plt.boxplot(water_intake_per_day, labels=["Gottfrid"])#, notch=False, meanline=True, manage_ticks=True)
 plt.ylim(2.5, 6.5)
 plt.xlabel('')
 plt.ylabel('Totalt vattenintag per dag (L)')
@@ -138,6 +145,10 @@ plt.grid()
 plt.savefig(f'Vattenintag - Boxplot [{final_date}].pdf')
 plt.show()
 
+
+
+#plt.hist(water_intake_per_day)
+#plt.show()
 
 # OLD, SAVED IF I EVER LOOK FOR IT
 #handles, labels = ax.get_legend_handles_labels()
