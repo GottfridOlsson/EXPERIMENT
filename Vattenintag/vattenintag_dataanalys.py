@@ -3,7 +3,7 @@
 ##        File: vattenintag_dataanalys.py
 ##      Author: GOTTFRID OLSSON 
 ##     Created: 2023-05-17
-##     Updated: 2023-05-27
+##     Updated: 2023-06-10
 ##       About: Plots water intake as function of time
 ##              during the day. 
 ##====================================================##
@@ -22,7 +22,7 @@ from datetime import datetime
 
 
 # READ CSV #
-CSV_filename = 'VATTENINTAG [2023-06-07] - DATA.csv'
+CSV_filename = 'VATTENINTAG [2023-06-10] - DATA.csv'
 CSV = pd.read_csv(CSV_filename, delimiter=',')
 header = CSV.columns
 print(CSV_filename, CSV)
@@ -131,7 +131,7 @@ plt.show()
 # med plt.text elr ngt, plotta Q1-Q4 i boxplot med textrutor vid sidan av själva boxen!
 
 quartiles = np.percentile(water_intake_per_day, [0, 25, 50, 75, 100], method='normal_unbiased')
-quartile_explanation_Text = ['Min', '...', 'Median', '...', 'Max']
+quartile_explanation_Text = ['Min', 'Splits the data into 25 percent below and 75 percent above this value', 'Median', 'Splits the data into 75 percent below and 25 percent above this value', 'Max']
 for i, Q in enumerate(quartiles):
     print(f"Quartile {i}: {Q:.1f} L/dag ({quartile_explanation_Text[i]})")
 #sprint(quartiles)
@@ -141,6 +141,14 @@ plt.boxplot(water_intake_per_day, labels=["Gottfrid"])#, notch=False, meanline=T
 plt.ylim(2.5, 6.5)
 plt.xlabel('')
 plt.ylabel('Totalt vattenintag per dag (L)')
+
+# TODO: fixa exakt plot y-pos för texterna
+
+for i in range(len(quartiles)):
+    x_coord_text = 1.125
+    y_coord_text = quartiles[i]
+    text = f'Q{i} = {quartiles[i]:.1f}'
+    plt.text(x_coord_text, y_coord_text, text)
 plt.grid()
 plt.savefig(f'Vattenintag - Boxplot [{final_date}].pdf')
 plt.show()
