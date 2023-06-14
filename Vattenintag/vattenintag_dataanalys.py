@@ -22,7 +22,7 @@ from datetime import datetime
 
 
 # READ CSV #
-CSV_filename = 'VATTENINTAG [2023-06-10] - DATA.csv'
+CSV_filename = 'VATTENINTAG [2023-06-14] - DATA.csv'
 CSV = pd.read_csv(CSV_filename, delimiter=',')
 header = CSV.columns
 print(CSV_filename, CSV)
@@ -153,10 +153,6 @@ plt.grid()
 plt.savefig(f'Vattenintag - Boxplot [{final_date}].pdf')
 plt.show()
 
-
-
-#plt.hist(water_intake_per_day)
-#plt.show()
 
 # OLD, SAVED IF I EVER LOOK FOR IT
 #handles, labels = ax.get_legend_handles_labels()
