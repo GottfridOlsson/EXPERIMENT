@@ -3,7 +3,7 @@
 ##        File: vattenintag_dataanalys.py
 ##      Author: GOTTFRID OLSSON 
 ##     Created: 2023-05-17
-##     Updated: 2023-05-27
+##     Updated: 2023-06-10
 ##       About: Plots water intake as function of time
 ##              during the day. 
 ##====================================================##
@@ -13,6 +13,7 @@
 # LIBRARIES #
 import numpy as np
 import pandas as pd
+import statistics as stat
 import matplotlib
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
@@ -21,9 +22,10 @@ from datetime import datetime
 
 
 # READ CSV #
-CSV = pd.read_csv('VATTENINTAG [2023-06-03] - DATA.csv', delimiter=',')
+CSV_filename = 'VATTENINTAG [2023-06-10] - DATA.csv'
+CSV = pd.read_csv(CSV_filename, delimiter=',')
 header = CSV.columns
-print(CSV)
+print(CSV_filename, CSV)
 
 
 # FUNCTIONS #
@@ -71,7 +73,7 @@ standard_setup_matplotlib(figsize_cm=(16, 12))
 date  = CSV[header[0]] # time  = CSV[header[1]], # water_intake = CSV[header[2]]
 date_unique = list([set(date)][0]) # picks the unique dates and puts them into a list
 date_unique.sort()                 # orders the strings 
-total_water_intake = 0
+water_intake_per_day = []
 
 fig, ax = plt.subplots()
 day_cheat, day_after_cheat = date_unique[0], date_unique[1] # to plot with same hh:mm for a certain day we need to cheat to say that the day is the same for all dates
@@ -85,7 +87,7 @@ for i, day in enumerate(date_unique):
     datetimes_of_day = [convert_date_and_time_to_datetime(day_cheat, time) for time in time_of_day]
     water_intake = CSV.loc[CSV[header[0]] == day, header[2]]
     water_cumsum = np.cumsum(water_intake/10) # convert from dl to L, make shape same as for datetimes_of_day to plot
-    total_water_intake += np.max(water_cumsum)
+    water_intake_per_day.append(np.max(water_cumsum)) 
 
     # Check for update on lims  
     if np.min(water_cumsum) < y_lims[0]: y_lims[0] = np.min(water_cumsum)
@@ -97,7 +99,10 @@ for i, day in enumerate(date_unique):
 
 # Calculate 
 num_unique_days = len(date_unique)
+total_water_intake = np.sum(water_intake_per_day)
 average_total_water_intake = total_water_intake / num_unique_days
+stdev_total_water_intake   = stat.stdev(water_intake_per_day)
+#print(average_total_water_intake, stdev_total_water_intake)
 y_lims = [y_lims[0]-0.5, y_lims[1]+0.5]
 num_unique_days = len(date_unique)
 final_date = date[len(date)-1]
@@ -122,6 +127,36 @@ plt.savefig(f'Vattenintag [{final_date}].pdf')
 plt.show()
 
 
+# TODO:
+# med plt.text elr ngt, plotta Q1-Q4 i boxplot med textrutor vid sidan av själva boxen!
+
+quartiles = np.percentile(water_intake_per_day, [0, 25, 50, 75, 100], method='normal_unbiased')
+quartile_explanation_Text = ['Min', 'Splits the data into 25 percent below and 75 percent above this value', 'Median', 'Splits the data into 75 percent below and 25 percent above this value', 'Max']
+for i, Q in enumerate(quartiles):
+    print(f"Quartile {i}: {Q:.1f} L/dag ({quartile_explanation_Text[i]})")
+#sprint(quartiles)
+
+# BOXPLOT #
+plt.boxplot(water_intake_per_day, labels=["Gottfrid"])#, notch=False, meanline=True, manage_ticks=True)
+plt.ylim(2.5, 6.5)
+plt.xlabel('')
+plt.ylabel('Totalt vattenintag per dag (L)')
+
+# TODO: fixa exakt plot y-pos för texterna
+
+for i in range(len(quartiles)):
+    x_coord_text = 1.125
+    y_coord_text = quartiles[i]
+    text = f'Q{i} = {quartiles[i]:.1f}'
+    plt.text(x_coord_text, y_coord_text, text)
+plt.grid()
+plt.savefig(f'Vattenintag - Boxplot [{final_date}].pdf')
+plt.show()
+
+
+
+#plt.hist(water_intake_per_day)
+#plt.show()
 
 # OLD, SAVED IF I EVER LOOK FOR IT
 #handles, labels = ax.get_legend_handles_labels()
