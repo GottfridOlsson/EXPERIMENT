@@ -146,7 +146,7 @@ plt.ylabel('Totalt vattenintag per dag (L)')
 
 for i in range(len(quartiles)):
     x_coord_text = 1.125
-    y_coord_text = quartiles[i]
+    y_coord_text = quartiles[i] - 0.05
     text = f'Q{i} = {quartiles[i]:.1f}'
     plt.text(x_coord_text, y_coord_text, text)
 plt.grid()
