@@ -22,7 +22,7 @@ from datetime import datetime
 
 
 # READ CSV #
-CSV_filename = 'VATTENINTAG [2023-06-14] - DATA.csv'
+CSV_filename = 'VATTENINTAG [2023-06-22] - DATA.csv'
 CSV = pd.read_csv(CSV_filename, delimiter=',')
 header = CSV.columns
 print(CSV_filename, CSV)
@@ -146,9 +146,9 @@ plt.ylabel('Totalt vattenintag per dag (L)')
 
 for i in range(len(quartiles)):
     x_coord_text = 1.125
-    y_coord_text = quartiles[i] - 0.05
+    y_coord_text = quartiles[i]# - 0.05
     text = f'Q{i} = {quartiles[i]:.1f}'
-    plt.text(x_coord_text, y_coord_text, text)
+    plt.text(x_coord_text, y_coord_text, text, verticalalignment='center')
 plt.grid()
 plt.savefig(f'Vattenintag - Boxplot [{final_date}].pdf')
 plt.show()
